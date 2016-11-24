@@ -1,0 +1,1170 @@
+﻿ClaveEntidad,NombreEntidad,ClaveMunicipio,NombreMunicipio,ClaveLocalidad,NombreLocalidad,serviciosComunitarios,infraestructura,proyectosProductivos,suma,ID_LOC,id,year
+1,Aguascalientes,1,Aguascalientes,1,Aguascalientes,2,3,0,5,10010001,1001,2013
+1,Aguascalientes,1,Aguascalientes,479,Villa Licenciado Jes_s Ter_n (Calvillito),0,1,0,1,10010479,1001,2013
+1,Aguascalientes,2,Asientos,1,Asientos,1,0,0,1,10020001,1002,2013
+1,Aguascalientes,2,Asientos,291,Villa Ju_rez,0,1,0,1,10020291,1002,2013
+1,Aguascalientes,3,Calvillo,1,Calvillo,2,1,3,6,10030001,1003,2013
+1,Aguascalientes,3,Calvillo,24,Chiquihuitero (San Isidro),0,1,0,1,10030024,1003,2013
+1,Aguascalientes,3,Calvillo,32,Jaltiche de Abajo,0,1,0,1,10030032,1003,2013
+1,Aguascalientes,3,Calvillo,33,Jaltiche de Arriba,0,2,0,2,10030033,1003,2013
+1,Aguascalientes,3,Calvillo,57,Ojo de Agua,0,1,0,1,10030057,1003,2013
+1,Aguascalientes,3,Calvillo,84,San Tadeo,0,1,0,1,10030084,1003,2013
+1,Aguascalientes,3,Calvillo,113,El G_encho,0,1,0,1,10030113,1003,2013
+1,Aguascalientes,3,Calvillo,126,Las Chave_as,0,1,0,1,10030126,1003,2013
+1,Aguascalientes,3,Calvillo,136,Ejido Calvillo Sector Emiliano Zapata,0,1,0,1,10030136,1003,2013
+1,Aguascalientes,3,Calvillo,190,El Papant_n,0,0,1,1,10030190,1003,2013
+1,Aguascalientes,3,Calvillo,247,Ojo de Agua de los Santos,0,1,0,1,10030247,1003,2013
+1,Aguascalientes,4,Cos_o,1,Cos_o,1,1,0,2,10040001,1004,2013
+1,Aguascalientes,6,Pabell_n de Arteaga,1,Pabell_n de Arteaga,1,0,0,1,10060001,1006,2013
+1,Aguascalientes,7,Rinc_n de Romos,1,Rinc_n de Romos,1,0,0,1,10070001,1007,2013
+1,Aguascalientes,7,Rinc_n de Romos,28,Estancia de Mosqueira,0,1,0,1,10070028,1007,2013
+1,Aguascalientes,8,San Jos_ de Gracia,1,San Jos_ de Gracia,1,3,0,4,10080001,1008,2013
+1,Aguascalientes,9,Tepezal_,166,Tepezal_,1,0,0,1,10090166,1009,2013
+2,Baja California,1,Ensenada,2485,San Antonio de las Minas,0,0,1,1,20012485,2001,2013
+2,Baja California,4,Tijuana,1,Tijuana,12,3,1,16,20040001,2004,2013
+2,Baja California,4,Tijuana,1345,Terrazas del Sol,0,0,1,1,20041345,2004,2013
+4,Campeche,1,Calkin_,1,Calkin_,0,1,0,1,40010001,4001,2013
+4,Campeche,2,Campeche,110,Alfredo V. Bonfil,0,0,1,1,40020110,4002,2013
+4,Campeche,3,Carmen,3217,El Aguacatal,0,0,1,1,40033217,4003,2013
+4,Campeche,3,Carmen,3263,Conquista Campesina,0,0,1,1,40033263,4003,2013
+4,Campeche,3,Carmen,3531,San Isidro,0,0,1,1,40033531,4003,2013
+4,Campeche,4,Champot_n,1,Champot_n,1,0,1,2,40040001,4004,2013
+4,Campeche,9,Esc_rcega,2,Divisi_n del Norte,1,0,1,2,40090002,4009,2013
+4,Campeche,9,Esc_rcega,255,El Lechugal,0,0,1,1,40090255,4009,2013
+4,Campeche,10,Calakmul,77,Dos Naciones,0,1,0,1,40100077,4010,2013
+4,Campeche,11,Candelaria,41,Benito Ju_rez Uno,0,0,1,1,40110041,4011,2013
+4,Campeche,11,Candelaria,135,El Desenga_o,1,0,0,1,40110135,4011,2013
+6,Colima,2,Colima,1,Colima,0,2,0,2,60020001,6002,2013
+6,Colima,2,Colima,54,Los Asmoles,0,1,0,1,60020054,6002,2013
+6,Colima,2,Colima,109,Los Tepames,0,3,0,3,60020109,6002,2013
+6,Colima,3,Comala,1,Comala,0,1,0,1,60030001,6003,2013
+6,Colima,3,Comala,11,Cofrad_a de Suchitl_n,0,1,0,1,60030011,6003,2013
+6,Colima,3,Comala,37,Zacualpan,0,2,0,2,60030037,6003,2013
+6,Colima,3,Comala,362,Comala,0,1,0,1,60030362,6003,2013
+6,Colima,4,Coquimatl_n,7,El Colomo,0,1,0,1,60040007,6004,2013
+6,Colima,4,Coquimatl_n,9,Cruz de Piedra,0,1,0,1,60040009,6004,2013
+6,Colima,4,Coquimatl_n,15,Pueblo Ju_rez (La Magdalena),0,1,0,1,60040015,6004,2013
+6,Colima,4,Coquimatl_n,16,Los Limones,0,2,0,2,60040016,6004,2013
+6,Colima,5,Cuauht_moc,1,Cuauht_moc,0,1,0,1,60050001,6005,2013
+6,Colima,5,Cuauht_moc,7,Buenavista,0,3,0,3,60050007,6005,2013
+6,Colima,5,Cuauht_moc,9,El C_bano,0,2,0,2,60050009,6005,2013
+6,Colima,5,Cuauht_moc,10,Chiapa,0,2,0,2,60050010,6005,2013
+6,Colima,5,Cuauht_moc,13,Montitl_n,0,2,0,2,60050013,6005,2013
+6,Colima,5,Cuauht_moc,14,Ocotillo,0,2,0,2,60050014,6005,2013
+6,Colima,5,Cuauht_moc,21,San Joaqu_n,0,1,0,1,60050021,6005,2013
+6,Colima,5,Cuauht_moc,23,El Trapiche,0,1,0,1,60050023,6005,2013
+6,Colima,5,Cuauht_moc,71,Baj_o de la Leona,0,1,0,1,60050071,6005,2013
+6,Colima,6,Ixtlahuac_n,1,Ixtlahuac_n,0,1,0,1,60060001,6006,2013
+6,Colima,6,Ixtlahuac_n,3,Agua de la Virgen,0,1,0,1,60060003,6006,2013
+6,Colima,6,Ixtlahuac_n,6,Aquiles Serd_n (Tamala),0,1,0,1,60060006,6006,2013
+6,Colima,6,Ixtlahuac_n,14,Las Conchas,0,4,0,4,60060014,6006,2013
+6,Colima,7,Manzanillo,50,Puertecito de Lajas,0,28,0,28,60070050,6007,2013
+6,Colima,8,Minatitl_n,1,Minatitl_n,0,1,0,1,60080001,6008,2013
+6,Colima,8,Minatitl_n,152,Minatitl_n,0,3,0,3,60080152,6008,2013
+6,Colima,9,Tecom_n,1,Tecom_n,0,2,0,2,60090001,6009,2013
+6,Colima,9,Tecom_n,27,Cofrad_a de Hidalgo (Laguna de Alcuzahue),0,2,0,2,60090027,6009,2013
+6,Colima,9,Tecom_n,30,Colonia Ladislao Moreno,0,1,0,1,60090030,6009,2013
+7,Chiapas,6,Amatenango de la Frontera,34,Nuevo Amatenango,0,1,0,1,70060034,7006,2013
+7,Chiapas,31,Chil_n,7,Aurora Grande,0,1,0,1,70310007,7031,2013
+7,Chiapas,31,Chil_n,51,San Mart_n Cruzt_n,0,1,0,1,70310051,7031,2013
+7,Chiapas,31,Chil_n,229,Centro Tz_ Olj_,0,2,0,2,70310229,7031,2013
+7,Chiapas,31,Chil_n,456,La Betania,0,1,0,1,70310456,7031,2013
+7,Chiapas,31,Chil_n,511,Bawitz Mango,0,1,0,1,70310511,7031,2013
+7,Chiapas,31,Chil_n,564,Jol Cantel_,0,1,0,1,70310564,7031,2013
+7,Chiapas,31,Chil_n,605,Mazanilj_,0,2,0,2,70310605,7031,2013
+7,Chiapas,31,Chil_n,710,Buenavista San Jos_ Napil_,0,1,0,1,70310710,7031,2013
+7,Chiapas,31,Chil_n,828,Pamalh_ 2da. Secci_n,0,2,0,2,70310828,7031,2013
+7,Chiapas,75,Las Rosas,194,Las Rosas,0,2,0,2,70750194,7075,2013
+7,Chiapas,93,Tenejapa,74,Bawits,0,1,0,1,70930074,7093,2013
+7,Chiapas,106,Venustiano Carranza,49,Guadalupe Victoria,0,1,0,1,71060049,7106,2013
+8,Chihuahua,6,Bach_niva,1,Bach_niva,0,1,0,1,80060001,8006,2013
+8,Chihuahua,9,Bocoyna,1,Bocoyna,0,1,0,1,80090001,8009,2013
+8,Chihuahua,10,Buenaventura,5,Ejido Benito Ju_rez,0,1,0,1,80100005,8010,2013
+8,Chihuahua,12,Carich_,7,Bacabureachi,0,1,0,1,80120007,8012,2013
+8,Chihuahua,14,Coronado,1,Jos_ Esteban Coronado,0,0,1,1,80140001,8014,2013
+8,Chihuahua,17,Cuauht_moc,1,Cuauht_moc,0,1,0,1,80170001,8017,2013
+8,Chihuahua,18,Cusihuiriachi,76,Santa Rita,0,1,0,1,80180076,8018,2013
+8,Chihuahua,19,Chihuahua,1,Chihuahua,0,0,1,1,80190001,8019,2013
+8,Chihuahua,21,Delicias,1,Delicias,0,1,0,1,80210001,8021,2013
+8,Chihuahua,22,Dr. Belisario Dom_nguez,1,San Lorenzo,0,1,0,1,80220001,8022,2013
+8,Chihuahua,22,Dr. Belisario Dom_nguez,14,Santa Mar_a de Cuevas,0,1,0,1,80220014,8022,2013
+8,Chihuahua,24,Santa Isabel,1,Santa Isabel,0,1,1,2,80240001,8024,2013
+8,Chihuahua,25,G_mez Far_as,1,Valent_n G_mez Far_as,0,1,0,1,80250001,8025,2013
+8,Chihuahua,26,Gran Morelos,2,El Aguaje,0,1,0,1,80260002,8026,2013
+8,Chihuahua,31,Guerrero,1,Vicente Guerrero,0,1,1,2,80310001,8031,2013
+8,Chihuahua,36,Jim_nez,1,Jos_ Mariano Jim_nez,0,1,0,1,80360001,8036,2013
+8,Chihuahua,39,L_pez,1,Octaviano L_pez,0,0,2,2,80390001,8039,2013
+8,Chihuahua,40,Madera,1,Madera,0,1,1,2,80400001,8040,2013
+8,Chihuahua,45,Meoqui,1,Pedro Meoqui,0,0,1,1,80450001,8045,2013
+8,Chihuahua,47,Moris,1,Moris,0,1,0,1,80470001,8047,2013
+8,Chihuahua,48,Namiquipa,1,Namiquipa,0,2,1,3,80480001,8048,2013
+8,Chihuahua,48,Namiquipa,43,El Molino,0,1,0,1,80480043,8048,2013
+8,Chihuahua,48,Namiquipa,65,Santa Ana,0,1,0,1,80480065,8048,2013
+8,Chihuahua,50,Nuevo Casas Grandes,1,Nuevo Casas Grandes,0,1,0,1,80500001,8050,2013
+8,Chihuahua,51,Ocampo,1,Melchor Ocampo,0,1,0,1,80510001,8051,2013
+8,Chihuahua,52,Ojinaga,365,El Oasis,0,2,0,2,80520365,8052,2013
+8,Chihuahua,54,Riva Palacio,1,San Andr_s,0,1,0,1,80540001,8054,2013
+8,Chihuahua,55,Rosales,1,Santa Cruz de Rosales,0,1,0,1,80550001,8055,2013
+8,Chihuahua,57,San Francisco de Borja,1,San Francisco de Borja,0,0,1,1,80570001,8057,2013
+8,Chihuahua,61,Satev_,71,San Antonio de los Chac_n,0,1,0,1,80610071,8061,2013
+8,Chihuahua,63,Tem_sachic,66,Tosanachi,0,1,0,1,80630066,8063,2013
+8,Chihuahua,65,Urique,5,Bahuichivo,0,1,0,1,80650005,8065,2013
+8,Chihuahua,65,Urique,18,Cuiteco,0,1,0,1,80650018,8065,2013
+10,Durango,2,Canelas,1,Canelas,0,1,0,1,100020001,10002,2013
+10,Durango,2,Canelas,41,El Guasimal,0,1,0,1,100020041,10002,2013
+10,Durango,2,Canelas,411,La Angostura,0,1,0,1,100020411,10002,2013
+10,Durango,4,Cuencam_,51,Ram_n Corona,0,0,1,1,100040051,10004,2013
+10,Durango,5,Durango,1,Victoria de Durango,1,0,6,7,100050001,10005,2013
+10,Durango,5,Durango,278,San Vicente de Chupaderos,0,0,1,1,100050278,10005,2013
+10,Durango,5,Durango,289,Valle Florido,0,0,1,1,100050289,10005,2013
+10,Durango,8,Guadalupe Victoria,1,Guadalupe Victoria,0,1,0,1,100080001,10008,2013
+10,Durango,8,Guadalupe Victoria,9,Ignacio Ram_rez,0,1,0,1,100080009,10008,2013
+10,Durango,10,Hidalgo,1,Villa Hidalgo,0,1,0,1,100100001,10010,2013
+10,Durango,10,Hidalgo,4,Benjam_n Ur_as (San Andr_s),0,1,0,1,100100004,10010,2013
+10,Durango,10,Hidalgo,17,Ignacio Valencia (Los Alamitos),0,1,0,1,100100017,10010,2013
+10,Durango,10,Hidalgo,29,Revoluci_n (Las V_boras),0,1,0,1,100100029,10010,2013
+10,Durango,10,Hidalgo,33,San Ferm_n,0,1,0,1,100100033,10010,2013
+10,Durango,11,Ind_,1,Ind_,0,1,0,1,100110001,10011,2013
+10,Durango,11,Ind_,40,San Jos_ del Tizonazo (El Pueblo),0,1,0,1,100110040,10011,2013
+10,Durango,11,Ind_,59,La Horca,0,1,0,1,100110059,10011,2013
+10,Durango,11,Ind_,103,La Loma,0,1,0,1,100110103,10011,2013
+10,Durango,12,Lerdo,1,Lerdo,0,0,1,1,100120001,10012,2013
+10,Durango,13,Mapim_,14,Bermejillo,0,1,0,1,100130014,10013,2013
+10,Durango,15,Nazas,1,Nazas,0,2,0,2,100150001,10015,2013
+10,Durango,15,Nazas,25,General L_zaro C_rdenas (Pueblo Nuevo),0,1,0,1,100150025,10015,2013
+10,Durango,16,Nombre de Dios,1,Nombre de Dios,0,0,4,4,100160001,10016,2013
+10,Durango,16,Nombre de Dios,24,Gabriel Hern_ndez (Mancinas),0,1,0,1,100160024,10016,2013
+10,Durango,18,El Oro,1,Santa Mar_a del Oro,0,2,0,2,100180001,10018,2013
+10,Durango,20,P_nuco de Coronado,1,Francisco I. Madero,0,8,0,8,100200001,10020,2013
+10,Durango,20,P_nuco de Coronado,15,Jos_ Librado Rivera,0,1,0,1,100200015,10020,2013
+10,Durango,21,Pe__n Blanco,12,General Jes_s Agust_n Castro (Independencia),0,1,1,2,100210012,10021,2013
+10,Durango,22,Poanas,9,La Joya,0,6,0,6,100220009,10022,2013
+10,Durango,23,Pueblo Nuevo,689,Estaci_n Coyotes (Jos_ Mar_a Morelos),0,0,1,1,100230689,10023,2013
+10,Durango,24,Rodeo,6,Las _nimas,0,1,0,1,100240006,10024,2013
+10,Durango,24,Rodeo,22,Leandro Valle,0,1,0,1,100240022,10024,2013
+10,Durango,25,San Bernardo,44,San Juan de Heredia (J. Guadalupe Rodr_guez),0,1,0,1,100250044,10025,2013
+10,Durango,28,San Juan del R_o,4,Atotonilco,1,2,0,3,100280004,10028,2013
+10,Durango,29,San Luis del Cordero,1,San Luis del Cordero,0,3,0,3,100290001,10029,2013
+10,Durango,29,San Luis del Cordero,8,La Pur_sima (El Charco),0,1,0,1,100290008,10029,2013
+10,Durango,29,San Luis del Cordero,12,San Juan de las Boquillas,0,1,0,1,100290012,10029,2013
+10,Durango,29,San Luis del Cordero,14,Tepalcate_o,0,1,0,1,100290014,10029,2013
+10,Durango,30,San Pedro del Gallo,1,San Pedro del Gallo,0,1,0,1,100300001,10030,2013
+10,Durango,30,San Pedro del Gallo,32,Santo Domingo,0,1,0,1,100300032,10030,2013
+10,Durango,31,Santa Clara,9,El Naranjo,0,1,0,1,100310009,10031,2013
+10,Durango,31,Santa Clara,10,El Nogalito (Nogales),0,1,0,1,100310010,10031,2013
+10,Durango,33,S_chil,1,S_chil,0,0,1,1,100330001,10033,2013
+10,Durango,33,S_chil,14,San Luis,0,0,1,1,100330014,10033,2013
+10,Durango,34,Tamazula,1,Tamazula de Victoria,0,1,0,1,100340001,10034,2013
+10,Durango,34,Tamazula,108,Coloma,0,1,0,1,100340108,10034,2013
+10,Durango,34,Tamazula,383,Los Remedios,0,1,0,1,100340383,10034,2013
+10,Durango,35,Tepehuanes,1,Santa Catarina de Tepehuanes,0,1,0,1,100350001,10035,2013
+10,Durango,35,Tepehuanes,5,Arroyo Chico,1,0,0,1,100350005,10035,2013
+10,Durango,35,Tepehuanes,7,Los Bagres,0,1,0,1,100350007,10035,2013
+10,Durango,35,Tepehuanes,16,Carreras,0,1,0,1,100350016,10035,2013
+10,Durango,35,Tepehuanes,20,Ci_nega de Escobar,0,2,0,2,100350020,10035,2013
+10,Durango,35,Tepehuanes,28,Los Corrales,0,1,0,1,100350028,10035,2013
+10,Durango,35,Tepehuanes,64,Potrero de Ch_idez,0,1,0,1,100350064,10035,2013
+10,Durango,35,Tepehuanes,74,El Rinc_n,0,1,0,1,100350074,10035,2013
+10,Durango,35,Tepehuanes,86,San Pedro de Pescaderos,0,1,0,1,100350086,10035,2013
+10,Durango,35,Tepehuanes,227,Cerritos,0,1,0,1,100350227,10035,2013
+10,Durango,36,Tlahualilo,1,Tlahualilo de Zaragoza,0,10,4,14,100360001,10036,2013
+10,Durango,36,Tlahualilo,8,Balcones,0,1,0,1,100360008,10036,2013
+10,Durango,36,Tlahualilo,11,La Campana,0,2,0,2,100360011,10036,2013
+10,Durango,36,Tlahualilo,27,San Francisco de Horizonte (Horizonte),0,1,0,1,100360027,10036,2013
+10,Durango,36,Tlahualilo,34,El Lucero (Arcinas),0,2,0,2,100360034,10036,2013
+10,Durango,36,Tlahualilo,42,Pamplona,0,1,0,1,100360042,10036,2013
+10,Durango,36,Tlahualilo,63,San Julio,0,1,0,1,100360063,10036,2013
+10,Durango,37,Topia,1,Topia,0,1,2,3,100370001,10037,2013
+10,Durango,37,Topia,133,El Nurito,0,1,0,1,100370133,10037,2013
+10,Durango,37,Topia,161,El Platanar de Sianori,0,1,0,1,100370161,10037,2013
+10,Durango,37,Topia,169,El Potrero sin Agua,0,1,0,1,100370169,10037,2013
+10,Durango,37,Topia,184,Renter_a,0,1,0,1,100370184,10037,2013
+10,Durango,37,Topia,626,La Cresta,0,1,0,1,100370626,10037,2013
+10,Durango,38,Vicente Guerrero,1,Vicente Guerrero,0,4,0,4,100380001,10038,2013
+10,Durango,38,Vicente Guerrero,7,San Francisco Javier,0,1,1,2,100380007,10038,2013
+10,Durango,39,Nuevo Ideal,1,Nuevo Ideal,0,3,0,3,100390001,10039,2013
+11,Guanajuato,1,Abasolo,1,Abasolo,0,0,1,1,110010001,11001,2013
+11,Guanajuato,1,Abasolo,117,Rancho Nuevo de la Cruz,0,0,2,2,110010117,11001,2013
+11,Guanajuato,1,Abasolo,131,San Antonio de Peralta,0,1,0,1,110010131,11001,2013
+11,Guanajuato,1,Abasolo,175,La Tinaja de Negrete,0,1,0,1,110010175,11001,2013
+11,Guanajuato,1,Abasolo,181,El Varal,0,2,1,3,110010181,11001,2013
+11,Guanajuato,1,Abasolo,296,San Felipe,0,1,0,1,110010296,11001,2013
+11,Guanajuato,3,San Miguel de Allende,1,San Miguel de Allende,0,0,1,1,110030001,11003,2013
+11,Guanajuato,4,Apaseo el Alto,1,Apaseo el Alto,0,1,0,1,110040001,11004,2013
+11,Guanajuato,4,Apaseo el Alto,18,Congregaci_n de la Cruz (La Cueva),0,1,0,1,110040018,11004,2013
+11,Guanajuato,4,Apaseo el Alto,38,Marroqu_n,0,1,0,1,110040038,11004,2013
+11,Guanajuato,4,Apaseo el Alto,45,Ojo de Agua de la Trinidad,0,1,0,1,110040045,11004,2013
+11,Guanajuato,4,Apaseo el Alto,46,Ojo de Agua de Espejo (Estancia de Espejo),0,1,0,1,110040046,11004,2013
+11,Guanajuato,4,Apaseo el Alto,52,El Pocito (El Pocito de la Virgen),0,1,0,1,110040052,11004,2013
+11,Guanajuato,4,Apaseo el Alto,62,San Antonio Calichar,0,1,0,1,110040062,11004,2013
+11,Guanajuato,4,Apaseo el Alto,74,San Vicente,0,1,0,1,110040074,11004,2013
+11,Guanajuato,5,Apaseo el Grande,1,Apaseo el Grande,0,1,0,1,110050001,11005,2013
+11,Guanajuato,8,Manuel Doblado,1,Ciudad Manuel Doblado,0,0,1,1,110080001,11008,2013
+11,Guanajuato,10,Coroneo,1,Coroneo,0,1,0,1,110100001,11010,2013
+11,Guanajuato,10,Coroneo,2,Acatl_n,0,1,0,1,110100002,11010,2013
+11,Guanajuato,10,Coroneo,3,Bodo Norte,0,2,0,2,110100003,11010,2013
+11,Guanajuato,10,Coroneo,4,El Capul_n,0,1,0,1,110100004,11010,2013
+11,Guanajuato,10,Coroneo,6,Cerro Colorado,0,1,0,1,110100006,11010,2013
+11,Guanajuato,10,Coroneo,11,Piedra Larga,0,2,0,2,110100011,11010,2013
+11,Guanajuato,10,Coroneo,12,Salto de Le_n,0,2,0,2,110100012,11010,2013
+11,Guanajuato,10,Coroneo,14,La Venta Norte,0,1,0,1,110100014,11010,2013
+11,Guanajuato,10,Coroneo,19,El Puertecito,0,1,0,1,110100019,11010,2013
+11,Guanajuato,10,Coroneo,21,El Sauz de Cebolletas,0,2,0,2,110100021,11010,2013
+11,Guanajuato,10,Coroneo,25,Arroyo del Durazno,0,1,0,1,110100025,11010,2013
+11,Guanajuato,11,Cortazar,1,Cortazar,0,2,0,2,110110001,11011,2013
+11,Guanajuato,12,Cuer_maro,1,Cuer_maro,0,1,0,1,110120001,11012,2013
+11,Guanajuato,12,Cuer_maro,6,Galera de la Grulla,0,1,0,1,110120006,11012,2013
+11,Guanajuato,12,Cuer_maro,26,San Gregorio,0,1,0,1,110120026,11012,2013
+11,Guanajuato,12,Cuer_maro,30,La Sarteneja,0,1,0,1,110120030,11012,2013
+11,Guanajuato,12,Cuer_maro,35,Tup_taro,0,1,0,1,110120035,11012,2013
+11,Guanajuato,13,Doctor Mora,1,Doctor Mora,0,2,0,2,110130001,11013,2013
+11,Guanajuato,13,Doctor Mora,17,La Doncella,0,1,0,1,110130017,11013,2013
+11,Guanajuato,13,Doctor Mora,22,Las Flores,0,1,0,1,110130022,11013,2013
+11,Guanajuato,13,Doctor Mora,25,El Lindero,0,1,0,1,110130025,11013,2013
+11,Guanajuato,13,Doctor Mora,26,Loma de Buenavista,0,1,0,1,110130026,11013,2013
+11,Guanajuato,13,Doctor Mora,32,Morisquillas,0,1,0,1,110130032,11013,2013
+11,Guanajuato,13,Doctor Mora,34,La Noria,0,1,0,1,110130034,11013,2013
+11,Guanajuato,13,Doctor Mora,35,Obrajitos de Abajo,0,1,0,1,110130035,11013,2013
+11,Guanajuato,13,Doctor Mora,36,Obrajitos de Arriba,0,1,0,1,110130036,11013,2013
+11,Guanajuato,13,Doctor Mora,38,Las Palmitas,0,1,0,1,110130038,11013,2013
+11,Guanajuato,13,Doctor Mora,45,Puerto de Trojes (La Troja),0,1,0,1,110130045,11013,2013
+11,Guanajuato,13,Doctor Mora,85,Jes_s Mar_a,0,1,0,1,110130085,11013,2013
+11,Guanajuato,15,Guanajuato,1,Guanajuato,0,1,1,2,110150001,11015,2013
+11,Guanajuato,15,Guanajuato,67,Marfil,0,1,0,1,110150067,11015,2013
+11,Guanajuato,15,Guanajuato,84,Paso de Pirules,0,1,0,1,110150084,11015,2013
+11,Guanajuato,15,Guanajuato,110,Santa Rosa de Lima,0,1,0,1,110150110,11015,2013
+11,Guanajuato,16,Huan_maro,15,Ojos de Agua,0,1,0,1,110160015,11016,2013
+11,Guanajuato,16,Huan_maro,27,Zapote de Aguirre,0,0,2,2,110160027,11016,2013
+11,Guanajuato,17,Irapuato,1,Irapuato,0,0,3,3,110170001,11017,2013
+11,Guanajuato,17,Irapuato,169,La Soledad,0,0,1,1,110170169,11017,2013
+11,Guanajuato,17,Irapuato,218,Venado de San Lorenzo,0,0,1,1,110170218,11017,2013
+11,Guanajuato,18,Jaral del Progreso,1,Jaral del Progreso,0,2,0,2,110180001,11018,2013
+11,Guanajuato,18,Jaral del Progreso,32,El Tecolote,0,1,0,1,110180032,11018,2013
+11,Guanajuato,19,Jer_cuaro,13,Casas Blancas,0,1,0,1,110190013,11019,2013
+11,Guanajuato,19,Jer_cuaro,65,Puriantz_cuaro,0,1,0,1,110190065,11019,2013
+11,Guanajuato,20,Le_n,1,Le_n de los Aldama,0,3,4,7,110200001,11020,2013
+11,Guanajuato,20,Le_n,277,Barretos,0,0,1,1,110200277,11020,2013
+11,Guanajuato,20,Le_n,384,Nuevo Lindero,0,0,2,2,110200384,11020,2013
+11,Guanajuato,20,Le_n,401,Plan de Ayala (Santa Rosa),0,0,1,1,110200401,11020,2013
+11,Guanajuato,20,Le_n,410,Puerta de San Germ_n (Morelos),0,0,1,1,110200410,11020,2013
+11,Guanajuato,20,Le_n,435,Plan Guanajuato (La Sand_a),0,0,2,2,110200435,11020,2013
+11,Guanajuato,20,Le_n,745,La Soledad,0,0,1,1,110200745,11020,2013
+11,Guanajuato,21,Morole_n,15,Pi__cuaro,0,1,0,1,110210015,11021,2013
+11,Guanajuato,21,Morole_n,21,La Soledad,0,1,0,1,110210021,11021,2013
+11,Guanajuato,22,Ocampo,1,Ocampo,0,5,0,5,110220001,11022,2013
+11,Guanajuato,22,Ocampo,32,Gachupines,0,3,0,3,110220032,11022,2013
+11,Guanajuato,22,Ocampo,36,La Haciendita,0,2,0,2,110220036,11022,2013
+11,Guanajuato,22,Ocampo,42,La Laguna Cercada,0,1,0,1,110220042,11022,2013
+11,Guanajuato,22,Ocampo,55,El Potrero,0,1,0,1,110220055,11022,2013
+11,Guanajuato,22,Ocampo,85,San Jos_ del Torre_n,0,1,1,2,110220085,11022,2013
+11,Guanajuato,24,Pueblo Nuevo,12,San Rafael,0,0,1,1,110240012,11024,2013
+11,Guanajuato,24,Pueblo Nuevo,19,Presa Grande,0,0,1,1,110240019,11024,2013
+11,Guanajuato,25,Pur_sima del Rinc_n,1,Pur_sima de Bustos,0,2,0,2,110250001,11025,2013
+11,Guanajuato,27,Salamanca,81,Labor de Valtierra,0,1,0,1,110270081,11027,2013
+11,Guanajuato,27,Salamanca,160,Valtierra,0,1,0,1,110270160,11027,2013
+11,Guanajuato,28,Salvatierra,1,Salvatierra,0,1,0,1,110280001,11028,2013
+11,Guanajuato,28,Salvatierra,10,El Capul_n,0,2,0,2,110280010,11028,2013
+11,Guanajuato,28,Salvatierra,44,Puerta del Monte,0,1,0,1,110280044,11028,2013
+11,Guanajuato,28,Salvatierra,58,San Nicol_s de los Agustinos,0,2,0,2,110280058,11028,2013
+11,Guanajuato,28,Salvatierra,64,Urireo,0,1,0,1,110280064,11028,2013
+11,Guanajuato,28,Salvatierra,81,El Coyol,0,0,1,1,110280081,11028,2013
+11,Guanajuato,30,San Felipe,79,El Durazno,0,1,0,1,110300079,11030,2013
+11,Guanajuato,30,San Felipe,94,Fuerte Viejo,0,1,0,1,110300094,11030,2013
+11,Guanajuato,30,San Felipe,110,Jaral de Berrios,0,1,0,1,110300110,11030,2013
+11,Guanajuato,30,San Felipe,120,Laguna de Guadalupe,0,1,0,1,110300120,11030,2013
+11,Guanajuato,30,San Felipe,141,F_brica de Melchor,0,1,0,1,110300141,11030,2013
+11,Guanajuato,30,San Felipe,144,Molino de San Jos_,0,1,0,1,110300144,11030,2013
+11,Guanajuato,30,San Felipe,177,Providencia de Guadalupe (Estancia),0,0,1,1,110300177,11030,2013
+11,Guanajuato,30,San Felipe,206,San Antonio (San Antonio de Jes_s Mar_a),0,1,0,1,110300206,11030,2013
+11,Guanajuato,30,San Felipe,211,San Bartolo de Berrios,0,1,0,1,110300211,11030,2013
+11,Guanajuato,30,San Felipe,226,San Jos_ de la Varilla,0,1,0,1,110300226,11030,2013
+11,Guanajuato,30,San Felipe,256,El Saucillo,0,1,0,1,110300256,11030,2013
+11,Guanajuato,30,San Felipe,265,El Tejocote (El Domingo),0,1,0,1,110300265,11030,2013
+11,Guanajuato,30,San Felipe,765,Ejido Hern_ndez _lvarez,0,1,0,1,110300765,11030,2013
+11,Guanajuato,30,San Felipe,783,San Ram_n,0,1,0,1,110300783,11030,2013
+11,Guanajuato,31,San Francisco del Rinc_n,24,Jes_s del Monte (El Talayote),0,1,0,1,110310024,11031,2013
+11,Guanajuato,31,San Francisco del Rinc_n,32,El Maguey,0,1,1,2,110310032,11031,2013
+11,Guanajuato,31,San Francisco del Rinc_n,47,Pe_uelas,0,1,0,1,110310047,11031,2013
+11,Guanajuato,32,San Jos_ Iturbide,4,La Alameda,0,2,0,2,110320004,11032,2013
+11,Guanajuato,32,San Jos_ Iturbide,15,El Capul_n,0,1,0,1,110320015,11032,2013
+11,Guanajuato,32,San Jos_ Iturbide,17,Carbajal,0,1,0,1,110320017,11032,2013
+11,Guanajuato,32,San Jos_ Iturbide,32,La Escondida,0,1,0,1,110320032,11032,2013
+11,Guanajuato,32,San Jos_ Iturbide,40,Las Golondrinas,0,1,0,1,110320040,11032,2013
+11,Guanajuato,32,San Jos_ Iturbide,47,Jes_s Mar_a de Arriba,0,1,0,1,110320047,11032,2013
+11,Guanajuato,32,San Jos_ Iturbide,60,La Norita del Refugio,0,1,0,1,110320060,11032,2013
+11,Guanajuato,32,San Jos_ Iturbide,71,Pueblo Nuevo,0,1,0,1,110320071,11032,2013
+11,Guanajuato,32,San Jos_ Iturbide,84,Rinc_n de Santa Anita,0,1,0,1,110320084,11032,2013
+11,Guanajuato,32,San Jos_ Iturbide,86,San Sebasti_n del Salitre,0,2,0,2,110320086,11032,2013
+11,Guanajuato,32,San Jos_ Iturbide,96,Santa Br_gida,0,1,0,1,110320096,11032,2013
+11,Guanajuato,32,San Jos_ Iturbide,99,La Soledad de Arriba,0,1,0,1,110320099,11032,2013
+11,Guanajuato,32,San Jos_ Iturbide,102,Los Terreros,0,1,0,1,110320102,11032,2013
+11,Guanajuato,32,San Jos_ Iturbide,109,Tulillo de Arriba,0,1,0,1,110320109,11032,2013
+11,Guanajuato,32,San Jos_ Iturbide,112,La Venta,0,1,0,1,110320112,11032,2013
+11,Guanajuato,32,San Jos_ Iturbide,169,Los Ch_vez,0,1,0,1,110320169,11032,2013
+11,Guanajuato,35,Santa Cruz de Juventino Rosas,1,Juventino Rosas,0,1,0,1,110350001,11035,2013
+11,Guanajuato,35,Santa Cruz de Juventino Rosas,35,San Antonio de Morales,0,1,0,1,110350035,11035,2013
+11,Guanajuato,35,Santa Cruz de Juventino Rosas,53,Rinc_n de Centeno,0,1,0,1,110350053,11035,2013
+11,Guanajuato,35,Santa Cruz de Juventino Rosas,58,San Antonio de Romerillo,0,1,0,1,110350058,11035,2013
+11,Guanajuato,35,Santa Cruz de Juventino Rosas,78,Franco Tavera,0,2,0,2,110350078,11035,2013
+11,Guanajuato,39,Tarimoro,1,Tarimoro,0,2,0,2,110390001,11039,2013
+11,Guanajuato,39,Tarimoro,11,Cuadrilla de Cacalote (La Cuadrilla),0,1,0,1,110390011,11039,2013
+11,Guanajuato,39,Tarimoro,13,Charco Largo,0,1,0,1,110390013,11039,2013
+11,Guanajuato,39,Tarimoro,15,Los Fierros,0,1,0,1,110390015,11039,2013
+11,Guanajuato,39,Tarimoro,16,Galera de Panales,0,1,0,1,110390016,11039,2013
+11,Guanajuato,39,Tarimoro,20,Llano Grande,0,1,0,1,110390020,11039,2013
+11,Guanajuato,39,Tarimoro,22,La Moncada,0,1,0,1,110390022,11039,2013
+11,Guanajuato,41,Uriangato,1,Uriangato,0,8,0,8,110410001,11041,2013
+11,Guanajuato,44,Villagr_n,1,Villagr_n,0,3,2,5,110440001,11044,2013
+11,Guanajuato,44,Villagr_n,12,Colonia 18 de Marzo,0,1,0,1,110440012,11044,2013
+11,Guanajuato,44,Villagr_n,23,Mexicanos,0,1,0,1,110440023,11044,2013
+11,Guanajuato,44,Villagr_n,36,San Isidro Cerro Gordo,0,1,0,1,110440036,11044,2013
+11,Guanajuato,44,Villagr_n,43,Sarabia,0,0,1,1,110440043,11044,2013
+11,Guanajuato,44,Villagr_n,47,San Pedro Tolentino,0,1,1,2,110440047,11044,2013
+11,Guanajuato,46,Yuriria,1,Yuriria,0,1,0,1,110460001,11046,2013
+11,Guanajuato,46,Yuriria,12,Cerano (San Juan Cerano),0,2,0,2,110460012,11046,2013
+11,Guanajuato,46,Yuriria,75,San Pablo Casacuar_n,0,1,0,1,110460075,11046,2013
+11,Guanajuato,46,Yuriria,86,Tejocote de Calera,0,1,0,1,110460086,11046,2013
+11,Guanajuato,46,Yuriria,91,El Timbinal,0,1,0,1,110460091,11046,2013
+11,Guanajuato,46,Yuriria,93,Tinaja de Pastores,0,1,0,1,110460093,11046,2013
+12,Guerrero,6,Apaxtla,1,Ciudad Apaxtla de Castrej_n,0,1,0,1,120060001,12006,2013
+12,Guerrero,11,Atoyac de _lvarez,1,Atoyac de _lvarez,0,1,0,1,120110001,12011,2013
+12,Guerrero,11,Atoyac de _lvarez,10,Cacalutla,1,0,0,1,120110010,12011,2013
+12,Guerrero,11,Atoyac de _lvarez,43,El Para_so,0,1,1,2,120110043,12011,2013
+12,Guerrero,11,Atoyac de _lvarez,55,El Quemado,1,0,0,1,120110055,12011,2013
+12,Guerrero,11,Atoyac de _lvarez,76,Zacualpan,2,0,0,2,120110076,12011,2013
+12,Guerrero,12,Ayutla de los Libres,1,Ayutla de los Libres,0,1,2,3,120120001,12012,2013
+12,Guerrero,14,Benito Ju_rez,1,San Jer_nimo de Ju_rez,0,1,0,1,120140001,12014,2013
+12,Guerrero,14,Benito Ju_rez,9,Hacienda de Caba_as,2,0,0,2,120140009,12014,2013
+12,Guerrero,15,Buenavista de Cu_llar,1,Buenavista de Cu_llar,0,2,0,2,120150001,12015,2013
+12,Guerrero,15,Buenavista de Cu_llar,7,Cieneguillas,0,1,0,1,120150007,12015,2013
+12,Guerrero,16,Coahuayutla de Jos_ Mar_a Izazaga,60,El Naranjo,0,1,0,1,120160060,12016,2013
+12,Guerrero,17,Cocula,1,Cocula,1,2,0,3,120170001,12017,2013
+12,Guerrero,17,Cocula,4,Apipilulco,0,2,0,2,120170004,12017,2013
+12,Guerrero,17,Cocula,9,Cuetzala de la Reforma,1,0,0,1,120170009,12017,2013
+12,Guerrero,17,Cocula,11,El Machito de las Flores,0,1,0,1,120170011,12017,2013
+12,Guerrero,17,Cocula,16,Puente R_o San Juan,0,1,0,1,120170016,12017,2013
+12,Guerrero,17,Cocula,23,Xonacatla,0,1,0,1,120170023,12017,2013
+12,Guerrero,17,Cocula,29,Nuevo Balsas,0,1,0,1,120170029,12017,2013
+12,Guerrero,18,Copala,1,Copala,1,2,0,3,120180001,12018,2013
+12,Guerrero,21,Coyuca de Ben_tez,57,Santa Rosa de Lima,1,0,0,1,120210057,12021,2013
+12,Guerrero,22,Coyuca de Catal_n,3,Amuco de la Reforma,0,0,1,1,120220003,12022,2013
+12,Guerrero,22,Coyuca de Catal_n,72,Paso de Arena,0,0,2,2,120220072,12022,2013
+12,Guerrero,23,Cuajinicuilapa,1,Cuajinicuilapa,1,0,0,1,120230001,12023,2013
+12,Guerrero,26,Cuetzala del Progreso,9,Molonial,0,1,0,1,120260009,12026,2013
+12,Guerrero,28,Chilapa de _lvarez,1,Chilapa de _lvarez,0,3,0,3,120280001,12028,2013
+12,Guerrero,28,Chilapa de _lvarez,64,El Refugio,0,1,0,1,120280064,12028,2013
+12,Guerrero,28,Chilapa de _lvarez,107,Santa Cruz (Zacazonapa),0,1,0,1,120280107,12028,2013
+12,Guerrero,29,Chilpancingo de los Bravo,26,Amojileca,0,0,1,1,120290026,12029,2013
+12,Guerrero,29,Chilpancingo de los Bravo,43,Mazatl_n,0,1,0,1,120290043,12029,2013
+12,Guerrero,29,Chilpancingo de los Bravo,100,Omiltemi,1,0,0,1,120290100,12029,2013
+12,Guerrero,30,Florencio Villarreal,10,Chautengo,0,1,0,1,120300010,12030,2013
+12,Guerrero,30,Florencio Villarreal,19,Pico del Monte,1,0,0,1,120300019,12030,2013
+12,Guerrero,30,Florencio Villarreal,57,El Recodo,0,0,1,1,120300057,12030,2013
+12,Guerrero,30,Florencio Villarreal,66,El Tejoruco,0,1,0,1,120300066,12030,2013
+12,Guerrero,31,General Canuto A. Neri,1,Acapetlahuaya,0,1,0,1,120310001,12031,2013
+12,Guerrero,32,General Heliodoro Castillo,1,Tlacotepec,0,0,1,1,120320001,12032,2013
+12,Guerrero,32,General Heliodoro Castillo,29,Chichiltepec,0,1,0,1,120320029,12032,2013
+12,Guerrero,33,Huamuxtitl_n,7,Tepetlapa,0,1,0,1,120330007,12033,2013
+12,Guerrero,34,Huitzuco de los Figueroa,30,Pololcingo,0,1,0,1,120340030,12034,2013
+12,Guerrero,34,Huitzuco de los Figueroa,44,Tlaxmalac,0,1,0,1,120340044,12034,2013
+12,Guerrero,35,Iguala de la Independencia,1,Iguala de la Independencia,0,1,0,1,120350001,12035,2013
+12,Guerrero,35,Iguala de la Independencia,3,Colonia _lvaro Obreg_n,0,1,0,1,120350003,12035,2013
+12,Guerrero,35,Iguala de la Independencia,7,Coacoyula de _lvarez,0,1,0,1,120350007,12035,2013
+12,Guerrero,35,Iguala de la Independencia,11,Metlapa,0,1,0,1,120350011,12035,2013
+12,Guerrero,35,Iguala de la Independencia,14,Pantla de Zapotal,0,1,0,1,120350014,12035,2013
+12,Guerrero,35,Iguala de la Independencia,18,Santa Teresa,0,1,0,1,120350018,12035,2013
+12,Guerrero,35,Iguala de la Independencia,92,Colonia el Capire,0,1,0,1,120350092,12035,2013
+12,Guerrero,35,Iguala de la Independencia,117,Puente Gonz_lez Uno (Colonia los Manantiales),0,1,0,1,120350117,12035,2013
+12,Guerrero,37,Ixcateopan de Cuauht_moc,2,Amealco,0,2,0,2,120370002,12037,2013
+12,Guerrero,37,Ixcateopan de Cuauht_moc,13,Teucizapan,0,1,0,1,120370013,12037,2013
+12,Guerrero,42,M_rtir de Cuilapan,1,Apango,0,1,0,1,120420001,12042,2013
+12,Guerrero,45,Olinal_,1,Olinal_,1,0,0,1,120450001,12045,2013
+12,Guerrero,46,Ometepec,2,Acatepec,0,0,1,1,120460002,12046,2013
+12,Guerrero,49,Pilcaya,1,Pilcaya,0,1,0,1,120490001,12049,2013
+12,Guerrero,49,Pilcaya,5,La Concepci_n (La Concha),1,1,0,2,120490005,12049,2013
+12,Guerrero,55,Taxco de Alarc_n,2,Acamixtla,0,2,0,2,120550002,12055,2013
+12,Guerrero,55,Taxco de Alarc_n,5,Atzala (Atzala de la Asunci_n),0,1,0,1,120550005,12055,2013
+12,Guerrero,55,Taxco de Alarc_n,8,Chichila,0,1,0,1,120550008,12055,2013
+12,Guerrero,55,Taxco de Alarc_n,9,Dolores,0,1,0,1,120550009,12055,2013
+12,Guerrero,55,Taxco de Alarc_n,12,El Fraile,0,1,0,1,120550012,12055,2013
+12,Guerrero,55,Taxco de Alarc_n,13,Huahuaxtla,0,2,0,2,120550013,12055,2013
+12,Guerrero,55,Taxco de Alarc_n,17,Huixtac,0,1,0,1,120550017,12055,2013
+12,Guerrero,55,Taxco de Alarc_n,18,Icatepec,0,1,0,1,120550018,12055,2013
+12,Guerrero,55,Taxco de Alarc_n,19,Joyas del Progreso,0,1,0,1,120550019,12055,2013
+12,Guerrero,55,Taxco de Alarc_n,21,Juliantla,0,1,0,1,120550021,12055,2013
+12,Guerrero,55,Taxco de Alarc_n,29,San Esteban,0,1,0,1,120550029,12055,2013
+12,Guerrero,55,Taxco de Alarc_n,30,San Felipe de Jes_s Chichila,0,1,0,1,120550030,12055,2013
+12,Guerrero,55,Taxco de Alarc_n,34,San Juan de Dios (Naranjas de Dios),0,1,0,1,120550034,12055,2013
+12,Guerrero,55,Taxco de Alarc_n,37,San Juan Uni_n,0,2,0,2,120550037,12055,2013
+12,Guerrero,55,Taxco de Alarc_n,44,Santa Rosa,0,1,0,1,120550044,12055,2013
+12,Guerrero,55,Taxco de Alarc_n,45,Santiago Temixco,0,1,0,1,120550045,12055,2013
+12,Guerrero,55,Taxco de Alarc_n,47,Santo Domingo,0,1,0,1,120550047,12055,2013
+12,Guerrero,55,Taxco de Alarc_n,49,Taxco el Viejo,0,1,0,1,120550049,12055,2013
+12,Guerrero,55,Taxco de Alarc_n,51,Tecalpulco,0,1,0,1,120550051,12055,2013
+12,Guerrero,55,Taxco de Alarc_n,54,Temaxcalapa,0,1,0,1,120550054,12055,2013
+12,Guerrero,55,Taxco de Alarc_n,78,Los Naranjos,0,2,0,2,120550078,12055,2013
+12,Guerrero,55,Taxco de Alarc_n,81,Los Ocotes,0,1,0,1,120550081,12055,2013
+12,Guerrero,55,Taxco de Alarc_n,88,El Horconcito,1,0,0,1,120550088,12055,2013
+12,Guerrero,55,Taxco de Alarc_n,107,El Cucharillo (Plaza de Gallos),0,1,0,1,120550107,12055,2013
+12,Guerrero,59,Tepecoacuilco de Trujano,19,Tecuexcontitl_n (Tecoescontitl_n),0,1,0,1,120590019,12059,2013
+12,Guerrero,60,Tetipac,1,Tetipac,0,1,0,1,120600001,12060,2013
+12,Guerrero,60,Tetipac,21,San Andr_s,0,1,0,1,120600021,12060,2013
+12,Guerrero,60,Tetipac,22,San Antonio,0,1,0,1,120600022,12060,2013
+12,Guerrero,60,Tetipac,27,Santiago,0,1,0,1,120600027,12060,2013
+12,Guerrero,60,Tetipac,33,Tenexcontitl_n (El Ranchito),0,1,0,1,120600033,12060,2013
+12,Guerrero,61,Tixtla de Guerrero,1,Tixtla de Guerrero,0,0,1,1,120610001,12061,2013
+12,Guerrero,68,La Uni_n de Isidoro Montes de Oca,27,El Chico,0,1,0,1,120680027,12068,2013
+12,Guerrero,73,Zir_ndaro,1,Zir_ndaro de los Ch_vez,0,0,1,1,120730001,12073,2013
+12,Guerrero,73,Zir_ndaro,50,Cuambio,0,0,1,1,120730050,12073,2013
+12,Guerrero,75,Eduardo Neri,2,Ahuelic_n,0,1,0,1,120750002,12075,2013
+12,Guerrero,80,Juchit_n,6,Carrizalillo,0,1,0,1,120800006,12080,2013
+13,Hidalgo,1,Acatl_n,5,Los Arcos,0,1,0,1,130010005,13001,2013
+13,Hidalgo,3,Actopan,1,Actopan,0,3,0,3,130030001,13003,2013
+13,Hidalgo,3,Actopan,19,El Palomo,0,1,0,1,130030019,13003,2013
+13,Hidalgo,3,Actopan,23,San Andr_s Tianguistengo,1,0,0,1,130030023,13003,2013
+13,Hidalgo,6,Alfajayucan,31,San Francisco Sacachichilco,0,1,0,1,130060031,13006,2013
+13,Hidalgo,6,Alfajayucan,33,San Pablo Oxtotipan,0,1,0,1,130060033,13006,2013
+13,Hidalgo,6,Alfajayucan,35,Santa Mar_a la Palma,0,1,0,1,130060035,13006,2013
+13,Hidalgo,6,Alfajayucan,39,Santa Mar_a Xigui,0,1,0,1,130060039,13006,2013
+13,Hidalgo,9,El Arenal,1,El Arenal,0,1,0,1,130090001,13009,2013
+13,Hidalgo,9,El Arenal,5,El Jiadi,0,1,0,1,130090005,13009,2013
+13,Hidalgo,9,El Arenal,6,El Meje,0,2,0,2,130090006,13009,2013
+13,Hidalgo,9,El Arenal,7,Ojo de Agua San Jos_ Tepenene,0,1,0,1,130090007,13009,2013
+13,Hidalgo,9,El Arenal,8,El Rinc_n,0,1,0,1,130090008,13009,2013
+13,Hidalgo,9,El Arenal,11,San Jos_ Tepenene (Tepenene),0,2,0,2,130090011,13009,2013
+13,Hidalgo,12,Atotonilco el Grande,3,Cerro Colorado,0,1,0,1,130120003,13012,2013
+13,Hidalgo,12,Atotonilco el Grande,18,La Puebla,0,1,0,1,130120018,13012,2013
+13,Hidalgo,12,Atotonilco el Grande,39,Tiltepec,0,1,0,1,130120039,13012,2013
+13,Hidalgo,15,Cardonal,7,El Buena,0,1,0,1,130150007,13015,2013
+13,Hidalgo,15,Cardonal,20,San Andr_s Daboxtha,1,0,0,1,130150020,13015,2013
+13,Hidalgo,15,Cardonal,46,Cieneguillita,0,1,0,1,130150046,13015,2013
+13,Hidalgo,18,Chapulhuac_n,1,Chapulhuac_n,0,1,0,1,130180001,13018,2013
+13,Hidalgo,19,Chilcuautla,11,Santa Ana Batha,0,1,0,1,130190011,13019,2013
+13,Hidalgo,19,Chilcuautla,13,Texcatepec,0,0,1,1,130190013,13019,2013
+13,Hidalgo,19,Chilcuautla,14,Tlacotlapilco,0,1,0,1,130190014,13019,2013
+13,Hidalgo,19,Chilcuautla,15,Tunititl_n,0,1,0,1,130190015,13019,2013
+13,Hidalgo,22,Epazoyucan,1,Epazoyucan,0,2,0,2,130220001,13022,2013
+13,Hidalgo,22,Epazoyucan,10,El Nopalillo,0,1,0,1,130220010,13022,2013
+13,Hidalgo,24,Huasca de Ocampo,31,Santa Mar_a Regla,0,0,1,1,130240031,13024,2013
+13,Hidalgo,30,Ixmiquilpan,1,Ixmiquilpan,0,1,1,2,130300001,13030,2013
+13,Hidalgo,30,Ixmiquilpan,23,La Heredad,0,1,0,1,130300023,13030,2013
+13,Hidalgo,30,Ixmiquilpan,33,El Olivo,0,0,1,1,130300033,13030,2013
+13,Hidalgo,30,Ixmiquilpan,34,Orizabita,0,1,0,1,130300034,13030,2013
+13,Hidalgo,30,Ixmiquilpan,35,Panales,1,0,0,1,130300035,13030,2013
+13,Hidalgo,30,Ixmiquilpan,43,San Juanico,0,1,0,1,130300043,13030,2013
+13,Hidalgo,31,Jacala de Ledezma,10,Cuesta Colorada,0,1,0,1,130310010,13031,2013
+13,Hidalgo,36,San Agust_n Metzquititl_n,16,El Veladero,0,1,0,1,130360016,13036,2013
+13,Hidalgo,36,San Agust_n Metzquititl_n,23,Apartadero,0,1,0,1,130360023,13036,2013
+13,Hidalgo,37,Metztitl_n,1,Metztitl_n,0,1,0,1,130370001,13037,2013
+13,Hidalgo,37,Metztitl_n,15,Fontezuelas,0,1,0,1,130370015,13037,2013
+13,Hidalgo,37,Metztitl_n,20,Itztazacuala,0,1,0,1,130370020,13037,2013
+13,Hidalgo,38,Mineral del Chico,19,San Sebasti_n Capulines,0,1,0,1,130380019,13038,2013
+13,Hidalgo,40,La Misi_n,7,El Algod_n,0,1,0,1,130400007,13040,2013
+13,Hidalgo,41,Mixquiahuala de Ju_rez,1,Mixquiahuala,0,3,0,3,130410001,13041,2013
+13,Hidalgo,42,Molango de Escamilla,1,Molango,0,1,0,1,130420001,13042,2013
+13,Hidalgo,43,Nicol_s Flores,6,Cerro de la Cruz,0,1,0,1,130430006,13043,2013
+13,Hidalgo,45,Omitl_n de Ju_rez,18,El Perico,0,1,0,1,130450018,13045,2013
+13,Hidalgo,45,Omitl_n de Ju_rez,26,El Tejocote,0,2,0,2,130450026,13045,2013
+13,Hidalgo,45,Omitl_n de Ju_rez,28,Velasco,0,1,0,1,130450028,13045,2013
+13,Hidalgo,48,Pachuca de Soto,1,Pachuca de Soto,0,3,2,5,130480001,13048,2013
+13,Hidalgo,54,San Salvador,17,Poxindeje de Morelos,0,1,0,1,130540017,13054,2013
+13,Hidalgo,54,San Salvador,21,Santa Mar_a Amajac,0,1,0,1,130540021,13054,2013
+13,Hidalgo,54,San Salvador,26,El Colorado,0,1,0,1,130540026,13054,2013
+13,Hidalgo,54,San Salvador,32,Caxuxi,0,0,1,1,130540032,13054,2013
+13,Hidalgo,54,San Salvador,39,El Mothe,0,1,0,1,130540039,13054,2013
+13,Hidalgo,54,San Salvador,49,Rinc_n Santa Mar_a,0,1,0,1,130540049,13054,2013
+13,Hidalgo,55,Santiago de Anaya,1,Santiago de Anaya,0,1,0,1,130550001,13055,2013
+13,Hidalgo,55,Santiago de Anaya,3,La Blanca (Taxtho la Blanca),0,1,0,1,130550003,13055,2013
+13,Hidalgo,55,Santiago de Anaya,13,Patria Nueva,0,1,0,1,130550013,13055,2013
+13,Hidalgo,56,Santiago Tulantepec de Lugo Guerrero,1,Santiago Tulantepec,0,5,0,5,130560001,13056,2013
+13,Hidalgo,58,Tasquillo,3,Bondh_,0,3,0,3,130580003,13058,2013
+13,Hidalgo,58,Tasquillo,4,Caltimac_n,0,2,0,2,130580004,13058,2013
+13,Hidalgo,58,Tasquillo,15,Motho,0,1,0,1,130580015,13058,2013
+13,Hidalgo,58,Tasquillo,17,Portezuelo,1,0,0,1,130580017,13058,2013
+13,Hidalgo,58,Tasquillo,24,Santiago Ixtlahuaca,0,1,0,1,130580024,13058,2013
+13,Hidalgo,58,Tasquillo,32,El Durazno,1,0,0,1,130580032,13058,2013
+13,Hidalgo,66,Villa de Tezontepec,1,Tezontepec,0,2,0,2,130660001,13066,2013
+13,Hidalgo,70,Tlahuelilpan,1,Tlahuelilpan,0,2,0,2,130700001,13070,2013
+13,Hidalgo,75,Tolcayuca,9,Las Pintas (El Porvenir),0,1,0,1,130750009,13075,2013
+14,Jalisco,1,Acatic,1,Acatic,0,7,0,7,140010001,14001,2013
+14,Jalisco,3,Ahualulco de Mercado,1,Ahualulco de Mercado,0,4,0,4,140030001,14003,2013
+14,Jalisco,4,Amacueca,1,Amacueca,0,3,0,3,140040001,14004,2013
+14,Jalisco,5,Amatit_n,1,Amatit_n,0,5,0,5,140050001,14005,2013
+14,Jalisco,6,Ameca,18,La Coronilla,0,0,1,1,140060018,14006,2013
+14,Jalisco,6,Ameca,140,Ameca,1,0,0,1,140060140,14006,2013
+14,Jalisco,7,San Juanito de Escobedo,12,San Pedro,0,4,0,4,140070012,14007,2013
+14,Jalisco,10,Atemajac de Brizuela,16,Lagunillas,0,2,0,2,140100016,14010,2013
+14,Jalisco,10,Atemajac de Brizuela,29,Tierra Blanca,1,0,0,1,140100029,14010,2013
+14,Jalisco,11,Atengo,1,Atengo,0,2,0,2,140110001,14011,2013
+14,Jalisco,13,Atotonilco el Alto,44,Margaritas,0,1,0,1,140130044,14013,2013
+14,Jalisco,13,Atotonilco el Alto,204,INFONAVIT Milpillas,0,1,0,1,140130204,14013,2013
+14,Jalisco,14,Atoyac,1,Atoyac,0,6,0,6,140140001,14014,2013
+14,Jalisco,15,Autl_n de Navarro,1,Autl_n de Navarro,1,0,0,1,140150001,14015,2013
+14,Jalisco,15,Autl_n de Navarro,5,Ahuacap_n,0,2,0,2,140150005,14015,2013
+14,Jalisco,15,Autl_n de Navarro,27,El Chante,0,1,0,1,140150027,14015,2013
+14,Jalisco,16,Ayotl_n,1,Ayotl_n,0,10,0,10,140160001,14016,2013
+14,Jalisco,17,Ayutla,1,Ayutla,0,2,0,2,140170001,14017,2013
+14,Jalisco,17,Ayutla,18,La Ca_ada del Carmen,0,1,0,1,140170018,14017,2013
+14,Jalisco,17,Ayutla,84,El Rosario,0,1,0,1,140170084,14017,2013
+14,Jalisco,17,Ayutla,87,San Antonio de los Mor_n,0,1,0,1,140170087,14017,2013
+14,Jalisco,17,Ayutla,96,San Miguel de la Sierra,0,2,0,2,140170096,14017,2013
+14,Jalisco,17,Ayutla,105,Los Sauces,0,1,0,1,140170105,14017,2013
+14,Jalisco,17,Ayutla,135,La Mesa de los Nu_o,0,1,0,1,140170135,14017,2013
+14,Jalisco,18,La Barca,37,San Ram_n,0,2,0,2,140180037,14018,2013
+14,Jalisco,19,Bola_os,1,Bola_os,0,1,0,1,140190001,14019,2013
+14,Jalisco,20,Cabo Corrientes,1,El Tuito,1,0,0,1,140200001,14020,2013
+14,Jalisco,20,Cabo Corrientes,64,El Refugio Suchitl_n (La Congregaci_n),0,1,0,1,140200064,14020,2013
+14,Jalisco,21,Casimiro Castillo,18,Tecomates,0,3,0,3,140210018,14021,2013
+14,Jalisco,23,Zapotl_n el Grande,1,Ciudad Guzm_n,0,5,0,5,140230001,14023,2013
+14,Jalisco,25,Colotl_n,1,Colotl_n,0,6,0,6,140250001,14025,2013
+14,Jalisco,26,Concepci_n de Buenos Aires,1,Concepci_n de Buenos Aires,0,3,0,3,140260001,14026,2013
+14,Jalisco,27,Cuautitl_n de Garc_a Barrag_n,1,Cuautitl_n de Garc_a Barrag_n,1,4,0,5,140270001,14027,2013
+14,Jalisco,27,Cuautitl_n de Garc_a Barrag_n,34,Charco Azul,0,1,0,1,140270034,14027,2013
+14,Jalisco,28,Cuautla,1,Cuautla,1,0,0,1,140280001,14028,2013
+14,Jalisco,28,Cuautla,29,Tototl_n del Oro,0,2,0,2,140280029,14028,2013
+14,Jalisco,29,Cuqu_o,27,Las Cruces,0,4,0,4,140290027,14029,2013
+14,Jalisco,29,Cuqu_o,60,La Mojarra (Tanque Colorado),0,1,0,1,140290060,14029,2013
+14,Jalisco,29,Cuqu_o,89,Santa Clara,0,1,0,1,140290089,14029,2013
+14,Jalisco,29,Cuqu_o,99,Teponahuasco,0,2,0,2,140290099,14029,2013
+14,Jalisco,29,Cuqu_o,106,La Tortuga,0,1,0,1,140290106,14029,2013
+14,Jalisco,29,Cuqu_o,110,La Villita,0,1,0,1,140290110,14029,2013
+14,Jalisco,29,Cuqu_o,167,La Esperanza (El Ranchito),0,1,0,1,140290167,14029,2013
+14,Jalisco,30,Chapala,3,Atotonilquillo,0,2,0,2,140300003,14030,2013
+14,Jalisco,32,Chiquilistl_n,1,Chiquilistl_n,1,0,0,1,140320001,14032,2013
+14,Jalisco,33,Degollado,1,Degollado,0,1,0,1,140330001,14033,2013
+14,Jalisco,33,Degollado,38,Hu_scato,0,1,0,1,140330038,14033,2013
+14,Jalisco,34,Ejutla,1,Ejutla,0,2,0,2,140340001,14034,2013
+14,Jalisco,35,Encarnaci_n de D_az,1,Encarnaci_n de D_az,0,3,0,3,140350001,14035,2013
+14,Jalisco,36,Etzatl_n,1,Etzatl_n,0,2,0,2,140360001,14036,2013
+14,Jalisco,36,Etzatl_n,27,Oconahua,0,1,0,1,140360027,14036,2013
+14,Jalisco,37,El Grullo,1,El Grullo,1,0,0,1,140370001,14037,2013
+14,Jalisco,38,Guachinango,1,Guachinango,1,0,0,1,140380001,14038,2013
+14,Jalisco,39,Guadalajara,1,Guadalajara,0,7,7,14,140390001,14039,2013
+14,Jalisco,40,Hostotipaquillo,1,Hostotipaquillo,0,1,0,1,140400001,14040,2013
+14,Jalisco,40,Hostotipaquillo,10,Puente Barranquitas,0,1,0,1,140400010,14040,2013
+14,Jalisco,42,Huejuquilla el Alto,1,Huejuquilla el Alto,0,1,0,1,140420001,14042,2013
+14,Jalisco,43,La Huerta,86,Plazola,0,3,0,3,140430086,14043,2013
+14,Jalisco,45,Ixtlahuac_n del R_o,1,Ixtlahuac_n del R_o,0,1,0,1,140450001,14045,2013
+14,Jalisco,46,Jalostotitl_n,76,Teocaltit_n de Guadalupe,0,4,0,4,140460076,14046,2013
+14,Jalisco,48,Jes_s Mar_a,7,Ayo el Grande,0,4,0,4,140480007,14048,2013
+14,Jalisco,49,Jilotl_n de los Dolores,1,Jilotl_n de los Dolores,0,4,0,4,140490001,14049,2013
+14,Jalisco,50,Jocotepec,14,San Pedro Tesist_n,0,3,0,3,140500014,14050,2013
+14,Jalisco,51,Juanacatl_n,47,Juanacatl_n,0,1,0,1,140510047,14051,2013
+14,Jalisco,52,Juchitl_n,1,Juchitl_n,0,4,0,4,140520001,14052,2013
+14,Jalisco,53,Lagos de Moreno,1,Lagos de Moreno,1,0,0,1,140530001,14053,2013
+14,Jalisco,53,Lagos de Moreno,85,Francisco Primo de Verdad (Ci_nega de Mata),0,1,0,1,140530085,14053,2013
+14,Jalisco,55,Magdalena,1,Magdalena,0,2,1,3,140550001,14055,2013
+14,Jalisco,56,Santa Mar_a del Oro,37,Las Parotas,0,1,0,1,140560037,14056,2013
+14,Jalisco,56,Santa Mar_a del Oro,70,Zipoco,0,2,0,2,140560070,14056,2013
+14,Jalisco,58,Mascota,1,Mascota,1,0,0,1,140580001,14058,2013
+14,Jalisco,58,Mascota,122,La Palapa,0,1,0,1,140580122,14058,2013
+14,Jalisco,58,Mascota,138,Puerta de Enmedio,0,1,0,1,140580138,14058,2013
+14,Jalisco,59,Mazamitla,12,La Cofrad_a,0,1,0,1,140590012,14059,2013
+14,Jalisco,60,Mexticac_n,1,Mexticac_n,0,4,0,4,140600001,14060,2013
+14,Jalisco,60,Mexticac_n,102,Analco,0,4,0,4,140600102,14060,2013
+14,Jalisco,60,Mexticac_n,159,Tapias de Abajo,0,2,0,2,140600159,14060,2013
+14,Jalisco,62,Mixtl_n,12,La Laja,0,2,0,2,140620012,14062,2013
+14,Jalisco,63,Ocotl_n,1,Ocotl_n,1,0,0,1,140630001,14063,2013
+14,Jalisco,63,Ocotl_n,11,San Vicente (Labor Vieja),0,5,0,5,140630011,14063,2013
+14,Jalisco,64,Ojuelos de Jalisco,1,Ojuelos de Jalisco,1,0,0,1,140640001,14064,2013
+14,Jalisco,65,Pihuamo,1,Pihuamo,0,1,0,1,140650001,14065,2013
+14,Jalisco,66,Poncitl_n,19,Mezcala,2,0,0,2,140660019,14066,2013
+14,Jalisco,67,Puerto Vallarta,9,Boca de Tomatl_n,0,1,0,1,140670009,14067,2013
+14,Jalisco,68,Villa Purificaci_n,1,Villa Purificaci_n,0,3,0,3,140680001,14068,2013
+14,Jalisco,69,Quitupan,40,El Cuervo,0,1,0,1,140690040,14069,2013
+14,Jalisco,69,Quitupan,59,L_zaro C_rdenas (San Diego),0,6,0,6,140690059,14069,2013
+14,Jalisco,70,El Salto,64,La Alameda [Fraccionamiento],0,0,1,1,140700064,14070,2013
+14,Jalisco,70,El Salto,105,El Salto,2,0,0,2,140700105,14070,2013
+14,Jalisco,71,San Crist_bal de la Barranca,23,Cuyutl_n,0,1,0,1,140710023,14071,2013
+14,Jalisco,71,San Crist_bal de la Barranca,42,La Lobera,0,1,0,1,140710042,14071,2013
+14,Jalisco,72,San Diego de Alejandr_a,1,San Diego de Alejandr_a,0,10,0,10,140720001,14072,2013
+14,Jalisco,74,San Juli_n,1,San Juli_n,0,1,0,1,140740001,14074,2013
+14,Jalisco,74,San Juli_n,38,Puerta de Amolero (Puerta del Aire),0,1,0,1,140740038,14074,2013
+14,Jalisco,75,San Marcos,1,San Marcos,0,1,0,1,140750001,14075,2013
+14,Jalisco,75,San Marcos,47,La Tizapa (Seis Hermanos),0,1,0,1,140750047,14075,2013
+14,Jalisco,76,San Mart_n de Bola_os,1,San Mart_n de Bola_os,0,4,0,4,140760001,14076,2013
+14,Jalisco,77,San Mart_n Hidalgo,15,El Salitre,0,5,0,5,140770015,14077,2013
+14,Jalisco,78,San Miguel el Alto,1,San Miguel el Alto,0,9,0,9,140780001,14078,2013
+14,Jalisco,79,G_mez Far_as,1,San Sebasti_n del Sur,0,0,1,1,140790001,14079,2013
+14,Jalisco,79,G_mez Far_as,30,San Andr_s Ixtl_n,0,1,0,1,140790030,14079,2013
+14,Jalisco,81,Santa Mar_a de los _ngeles,1,Santa Mar_a de los _ngeles,0,3,0,3,140810001,14081,2013
+14,Jalisco,82,Sayula,26,Usmajac,0,2,0,2,140820026,14082,2013
+14,Jalisco,83,Tala,1,Tala,0,14,0,14,140830001,14083,2013
+14,Jalisco,83,Tala,4,Cuisillos,0,1,0,1,140830004,14083,2013
+14,Jalisco,83,Tala,13,El Refugio,0,3,0,3,140830013,14083,2013
+14,Jalisco,83,Tala,16,San Isidro Mazatepec,0,2,0,2,140830016,14083,2013
+14,Jalisco,83,Tala,176,Tala,0,4,0,4,140830176,14083,2013
+14,Jalisco,84,Talpa de Allende,1,Talpa de Allende,0,2,0,2,140840001,14084,2013
+14,Jalisco,85,Tamazula de Gordiano,38,Villa de Contla (Contla),0,2,0,2,140850038,14085,2013
+14,Jalisco,86,Tapalpa,19,Juanacatl_n,0,1,0,1,140860019,14086,2013
+14,Jalisco,86,Tapalpa,38,Yerbabuena,0,1,0,1,140860038,14086,2013
+14,Jalisco,86,Tapalpa,140,Los Colonos,0,1,0,1,140860140,14086,2013
+14,Jalisco,88,Tecolotl_n,1,Tecolotl_n,0,14,0,14,140880001,14088,2013
+14,Jalisco,91,Teocaltiche,113,El Salitre,0,1,0,1,140910113,14091,2013
+14,Jalisco,92,Teocuitatl_n de Corona,1,Teocuitatl_n de Corona,0,1,0,1,140920001,14092,2013
+14,Jalisco,92,Teocuitatl_n de Corona,23,Santa Rosa,0,0,1,1,140920023,14092,2013
+14,Jalisco,94,Tequila,185,La Coba,0,1,0,1,140940185,14094,2013
+14,Jalisco,94,Tequila,191,La Culebra,0,1,0,1,140940191,14094,2013
+14,Jalisco,95,Teuchitl_n,1,Teuchitl_n,0,5,0,5,140950001,14095,2013
+14,Jalisco,96,Tizap_n el Alto,14,Villa Emiliano Zapata (Ejido Modelo),0,1,0,1,140960014,14096,2013
+14,Jalisco,97,Tlajomulco de Z__iga,1,Tlajomulco de Z__iga,0,0,3,3,140970001,14097,2013
+14,Jalisco,98,San Pedro Tlaquepaque,1,Tlaquepaque,0,0,1,1,140980001,14098,2013
+14,Jalisco,99,Tolim_n,88,La Parota,0,1,0,1,140990088,14099,2013
+14,Jalisco,101,Tonal_,1,Tonal_,3,5,3,11,141010001,14101,2013
+14,Jalisco,102,Tonaya,1,Tonaya,0,19,0,19,141020001,14102,2013
+14,Jalisco,102,Tonaya,22,El Paso de San Francisco,0,1,0,1,141020022,14102,2013
+14,Jalisco,102,Tonaya,25,San Rafael,0,1,0,1,141020025,14102,2013
+14,Jalisco,102,Tonaya,34,Alpizahua,0,1,0,1,141020034,14102,2013
+14,Jalisco,104,Totatiche,84,Temasti_n (La Cantera),0,3,0,3,141040084,14104,2013
+14,Jalisco,106,Tuxcacuesco,1,Tuxcacuesco,1,3,0,4,141060001,14106,2013
+14,Jalisco,107,Tuxcueca,1,Tuxcueca,1,1,1,3,141070001,14107,2013
+14,Jalisco,107,Tuxcueca,8,San Luis Soyatl_n,0,1,0,1,141070008,14107,2013
+14,Jalisco,108,Tuxpan,1,Tuxpan,1,1,0,2,141080001,14108,2013
+14,Jalisco,109,Uni_n de San Antonio,1,Uni_n de San Antonio,0,11,0,11,141090001,14109,2013
+14,Jalisco,111,Valle de Guadalupe,1,Valle de Guadalupe,1,6,0,7,141110001,14111,2013
+14,Jalisco,112,Valle de Ju_rez,33,Paso de Piedra,0,4,0,4,141120033,14112,2013
+14,Jalisco,113,San Gabriel,29,El Jazm_n,0,3,0,3,141130029,14113,2013
+14,Jalisco,115,Villa Guerrero,1,Villa Guerrero,0,6,0,6,141150001,14115,2013
+14,Jalisco,116,Villa Hidalgo,1,Villa Hidalgo,0,10,0,10,141160001,14116,2013
+14,Jalisco,117,Ca_adas de Obreg_n,1,Ca_adas de Obreg_n,1,9,0,10,141170001,14117,2013
+14,Jalisco,118,Yahualica de Gonz_lez Gallo,1,Yahualica de Gonz_lez Gallo,0,12,1,13,141180001,14118,2013
+14,Jalisco,118,Yahualica de Gonz_lez Gallo,79,El Mirador,0,3,0,3,141180079,14118,2013
+14,Jalisco,119,Zacoalco de Torres,1,Zacoalco de Torres,0,8,0,8,141190001,14119,2013
+14,Jalisco,120,Zapopan,139,Nextipac,0,0,1,1,141200139,14120,2013
+14,Jalisco,121,Zapotiltic,21,El Rinc_n,0,2,0,2,141210021,14121,2013
+14,Jalisco,122,Zapotitl_n de Vadillo,10,Chancuellar,0,3,0,3,141220010,14122,2013
+14,Jalisco,122,Zapotitl_n de Vadillo,21,Loma de Perempitz,0,3,0,3,141220021,14122,2013
+14,Jalisco,123,Zapotl_n del Rey,46,Tecualtit_n,0,5,0,5,141230046,14123,2013
+14,Jalisco,124,Zapotlanejo,1,Zapotlanejo,0,4,0,4,141240001,14124,2013
+14,Jalisco,125,San Ignacio Cerro Gordo,1,San Ignacio Cerro Gordo,0,9,0,9,141250001,14125,2013
+15,M_xico,16,Axapusco,19,Xala,0,1,0,1,150160019,15016,2013
+15,M_xico,19,Capulhuac,31,Colonia la Poza,0,1,0,1,150190031,15019,2013
+15,M_xico,21,Coatepec Harinas,33,Las Vueltas,0,0,1,1,150210033,15021,2013
+15,M_xico,41,Ixtapan del Oro,1,Ixtapan del Oro,1,0,0,1,150410001,15041,2013
+15,M_xico,42,Ixtlahuaca,33,Santa Mar_a del Llano,0,0,1,1,150420033,15042,2013
+15,M_xico,47,Jiquipilco,11,Loma de San Felipe,0,1,0,1,150470011,15047,2013
+15,M_xico,47,Jiquipilco,18,San Antonio Nixini,0,0,1,1,150470018,15047,2013
+15,M_xico,48,Jocotitl_n,8,Los Reyes,0,1,0,1,150480008,15048,2013
+15,M_xico,52,Malinalco,18,El Platanar,0,1,0,1,150520018,15052,2013
+15,M_xico,56,Morelos,1,San Bartolo Morelos,0,1,0,1,150560001,15056,2013
+15,M_xico,65,Otumba,1,Otumba de G_mez Far_as,0,1,0,1,150650001,15065,2013
+15,M_xico,80,Sultepec,1,Sultepec de Pedro Ascencio de Alquisiras,1,0,0,1,150800001,15080,2013
+15,M_xico,82,Tejupilco,1,Tejupilco de Hidalgo,0,0,1,1,150820001,15082,2013
+15,M_xico,85,Temascalcingo,1,Temascalcingo de Jos_ Mar_a Velasco,0,1,0,1,150850001,15085,2013
+15,M_xico,86,Temascaltepec,1,Temascaltepec de Gonz_lez,0,1,0,1,150860001,15086,2013
+15,M_xico,87,Temoaya,4,La Ca_ada,0,1,0,1,150870004,15087,2013
+15,M_xico,88,Tenancingo,15,Pueblo Nuevo,0,0,1,1,150880015,15088,2013
+15,M_xico,101,Tianguistenco,1,Santiago Tianguistenco de Galeana,1,0,0,1,151010001,15101,2013
+15,M_xico,113,Villa Guerrero,22,San Jos_,0,0,1,1,151130022,15113,2013
+15,M_xico,119,Zumpahuac_n,1,Zumpahuac_n,0,1,0,1,151190001,15119,2013
+15,M_xico,120,Zumpango,41,San Bartolo Cuautlalpan,0,1,0,1,151200041,15120,2013
+15,M_xico,123,Luvianos,1,Villa Luvianos,0,1,0,1,151230001,15123,2013
+16,Michoac_n de Ocampo,1,Acuitzio,1,Acuitzio del Canje,0,1,0,1,160010001,16001,2013
+16,Michoac_n de Ocampo,2,Aguililla,1,Aguililla,0,1,0,1,160020001,16002,2013
+16,Michoac_n de Ocampo,3,_lvaro Obreg_n,1,_lvaro Obreg_n,0,3,0,3,160030001,16003,2013
+16,Michoac_n de Ocampo,3,_lvaro Obreg_n,4,El Calvario,0,1,0,1,160030004,16003,2013
+16,Michoac_n de Ocampo,3,_lvaro Obreg_n,10,Isla de Cirio (Isla de los Puercos),0,1,0,1,160030010,16003,2013
+16,Michoac_n de Ocampo,3,_lvaro Obreg_n,102,El Zapote [Colonia Agr_cola],0,1,0,1,160030102,16003,2013
+16,Michoac_n de Ocampo,6,Apatzing_n,1,Apatzing_n de la Constituci_n,0,0,1,1,160060001,16006,2013
+16,Michoac_n de Ocampo,6,Apatzing_n,2,Santiago Acahuato,0,1,0,1,160060002,16006,2013
+16,Michoac_n de Ocampo,9,Ario,1,Ario de Rosales,1,2,0,3,160090001,16009,2013
+16,Michoac_n de Ocampo,11,Brise_as,1,Brise_as de Matamoros,0,1,0,1,160110001,16011,2013
+16,Michoac_n de Ocampo,11,Brise_as,3,Ibarra,0,1,0,1,160110003,16011,2013
+16,Michoac_n de Ocampo,13,Car_cuaro,1,Car_cuaro de Morelos,1,2,0,3,160130001,16013,2013
+16,Michoac_n de Ocampo,13,Car_cuaro,114,Paso de N__ez (Buenavista),0,1,0,1,160130114,16013,2013
+16,Michoac_n de Ocampo,16,Coeneo,15,C_tiro,0,1,0,1,160160015,16016,2013
+16,Michoac_n de Ocampo,19,Cotija,1,Cotija de la Paz,1,0,0,1,160190001,16019,2013
+16,Michoac_n de Ocampo,19,Cotija,35,San Juanico,0,1,0,1,160190035,16019,2013
+16,Michoac_n de Ocampo,20,Cuitzeo,4,Cuamio,0,1,0,1,160200004,16020,2013
+16,Michoac_n de Ocampo,22,Charo,19,La Goleta,0,1,0,1,160220019,16022,2013
+16,Michoac_n de Ocampo,24,Cher_n,1,Cher_n,0,1,0,1,160240001,16024,2013
+16,Michoac_n de Ocampo,25,Chilchota,1,Chilchota,1,1,0,2,160250001,16025,2013
+16,Michoac_n de Ocampo,28,Churintzio,1,Churintzio,1,1,0,2,160280001,16028,2013
+16,Michoac_n de Ocampo,28,Churintzio,4,Changuitiro,0,1,0,1,160280004,16028,2013
+16,Michoac_n de Ocampo,28,Churintzio,11,Nuevo Morelos (El Ranchito),0,1,0,1,160280011,16028,2013
+16,Michoac_n de Ocampo,28,Churintzio,17,San Juan Bautista Aramutaro,0,1,0,1,160280017,16028,2013
+16,Michoac_n de Ocampo,29,Churumuco,1,Churumuco de Morelos,0,2,0,2,160290001,16029,2013
+16,Michoac_n de Ocampo,29,Churumuco,89,San Mart_n de la Luz,0,1,0,1,160290089,16029,2013
+16,Michoac_n de Ocampo,30,Ecuandureo,1,Ecuandureo,1,0,0,1,160300001,16030,2013
+16,Michoac_n de Ocampo,31,Epitacio Huerta,1,Epitacio Huerta,1,0,0,1,160310001,16031,2013
+16,Michoac_n de Ocampo,34,Hidalgo,1,Ciudad Hidalgo,3,2,0,5,160340001,16034,2013
+16,Michoac_n de Ocampo,34,Hidalgo,133,San Pedro J_cuaro (Las Joyas),0,0,2,2,160340133,16034,2013
+16,Michoac_n de Ocampo,35,La Huacana,299,Sin Agua (Rancho Nuevo),0,1,0,1,160350299,16035,2013
+16,Michoac_n de Ocampo,36,Huandacareo,1,Huandacareo,1,1,0,2,160360001,16036,2013
+16,Michoac_n de Ocampo,38,Huetamo,1,Huetamo de N__ez,3,1,0,4,160380001,16038,2013
+16,Michoac_n de Ocampo,40,Indaparapeo,1,Indaparapeo,2,1,0,3,160400001,16040,2013
+16,Michoac_n de Ocampo,42,Ixtl_n,1,Ixtl_n de los Hervores,0,1,0,1,160420001,16042,2013
+16,Michoac_n de Ocampo,43,Jacona,2,Los Cerritos,0,1,0,1,160430002,16043,2013
+16,Michoac_n de Ocampo,43,Jacona,17,San Jos_ el Platanal (El Cuije),0,1,0,1,160430017,16043,2013
+16,Michoac_n de Ocampo,45,Jiquilpan,1,Jiquilpan de Ju_rez,0,1,0,1,160450001,16045,2013
+16,Michoac_n de Ocampo,45,Jiquilpan,10,Abadiano (Los Bajos),0,1,0,1,160450010,16045,2013
+16,Michoac_n de Ocampo,45,Jiquilpan,23,San Mart_n Totol_n,0,1,0,1,160450023,16045,2013
+16,Michoac_n de Ocampo,46,Ju_rez,14,Par_cuaro,0,1,0,1,160460014,16046,2013
+16,Michoac_n de Ocampo,50,Maravat_o,1,Maravat_o de Ocampo,2,0,0,2,160500001,16050,2013
+16,Michoac_n de Ocampo,50,Maravat_o,16,Estancia de Paquisihuato,0,1,0,1,160500016,16050,2013
+16,Michoac_n de Ocampo,51,Marcos Castellanos,1,San Jos_ de Gracia,1,0,0,1,160510001,16051,2013
+16,Michoac_n de Ocampo,51,Marcos Castellanos,12,El Jarrero,0,1,0,1,160510012,16051,2013
+16,Michoac_n de Ocampo,51,Marcos Castellanos,19,El Sabino,0,1,0,1,160510019,16051,2013
+16,Michoac_n de Ocampo,53,Morelia,1,Morelia,0,2,0,2,160530001,16053,2013
+16,Michoac_n de Ocampo,53,Morelia,81,Loma Caliente,0,1,0,1,160530081,16053,2013
+16,Michoac_n de Ocampo,53,Morelia,86,Morelos,0,1,0,1,160530086,16053,2013
+16,Michoac_n de Ocampo,54,Morelos,1,Villa Morelos,0,2,0,2,160540001,16054,2013
+16,Michoac_n de Ocampo,55,M_gica,1,Nueva Italia de Ruiz,1,2,0,3,160550001,16055,2013
+16,Michoac_n de Ocampo,62,Pajacuar_n,1,Pajacuar_n,0,1,0,1,160620001,16062,2013
+16,Michoac_n de Ocampo,62,Pajacuar_n,6,La Luz,0,2,0,2,160620006,16062,2013
+16,Michoac_n de Ocampo,63,Panind_cuaro,1,Panind_cuaro,0,1,0,1,160630001,16063,2013
+16,Michoac_n de Ocampo,63,Panind_cuaro,19,San Miguel Epejan,0,1,0,1,160630019,16063,2013
+16,Michoac_n de Ocampo,64,Par_cuaro,7,Buenos Aires,0,1,0,1,160640007,16064,2013
+16,Michoac_n de Ocampo,64,Par_cuaro,22,Veinte de Noviembre,0,1,0,1,160640022,16064,2013
+16,Michoac_n de Ocampo,66,P_tzcuaro,67,Rancho de _lvarez,0,1,0,1,160660067,16066,2013
+16,Michoac_n de Ocampo,67,Penjamillo,29,Pat_mbaro,0,1,0,1,160670029,16067,2013
+16,Michoac_n de Ocampo,69,La Piedad,12,El Caudillo (Chorrera de Silva),0,1,0,1,160690012,16069,2013
+16,Michoac_n de Ocampo,69,La Piedad,16,Los Guajes,0,1,0,1,160690016,16069,2013
+16,Michoac_n de Ocampo,69,La Piedad,42,Ticuitaco (Tocuitaco),0,1,0,1,160690042,16069,2013
+16,Michoac_n de Ocampo,70,Pur_pero,1,Pur_pero de Ech_iz,1,3,0,4,160700001,16070,2013
+16,Michoac_n de Ocampo,72,Quer_ndaro,1,Quer_ndaro,0,2,0,2,160720001,16072,2013
+16,Michoac_n de Ocampo,72,Quer_ndaro,10,Jauja,0,1,0,1,160720010,16072,2013
+16,Michoac_n de Ocampo,72,Quer_ndaro,18,Pe_a Blanca,0,1,0,1,160720018,16072,2013
+16,Michoac_n de Ocampo,74,Cojumatl_n de R_gules,1,Cojumatl_n de R_gules,0,2,0,2,160740001,16074,2013
+16,Michoac_n de Ocampo,76,Sahuayo,1,Sahuayo de Morelos,1,1,0,2,160760001,16076,2013
+16,Michoac_n de Ocampo,77,San Lucas,1,San Lucas,0,1,0,1,160770001,16077,2013
+16,Michoac_n de Ocampo,78,Santa Ana Maya,18,San Rafael del Carrizal,0,1,0,1,160780018,16078,2013
+16,Michoac_n de Ocampo,78,Santa Ana Maya,30,Las Pe_itas,0,1,0,1,160780030,16078,2013
+16,Michoac_n de Ocampo,81,Susupuato,1,Susupuato de Guerrero,0,1,0,1,160810001,16081,2013
+16,Michoac_n de Ocampo,82,Tac_mbaro,1,Tac_mbaro de Codallos,1,3,0,4,160820001,16082,2013
+16,Michoac_n de Ocampo,83,Tanc_taro,1,Tanc_taro,0,1,0,1,160830001,16083,2013
+16,Michoac_n de Ocampo,83,Tanc_taro,17,Cond_mbaro,0,1,0,1,160830017,16083,2013
+16,Michoac_n de Ocampo,85,Tanganc_cuaro,1,Tanganc_cuaro de Arista,0,1,0,1,160850001,16085,2013
+16,Michoac_n de Ocampo,90,Tingambato,1,Tingambato,0,1,0,1,160900001,16090,2013
+16,Michoac_n de Ocampo,90,Tingambato,7,San Francisco Pich_taro,0,1,0,1,160900007,16090,2013
+16,Michoac_n de Ocampo,91,Ting_ind_n,1,Ting_ind_n,0,1,0,1,160910001,16091,2013
+16,Michoac_n de Ocampo,92,Tiquicheo de Nicol_s Romero,17,Ceibas de Trujillo,0,1,0,1,160920017,16092,2013
+16,Michoac_n de Ocampo,94,Tlazazalca,10,Huitzo,0,2,0,2,160940010,16094,2013
+16,Michoac_n de Ocampo,97,Turicato,1,Turicato,1,2,0,3,160970001,16097,2013
+16,Michoac_n de Ocampo,98,Tuxpan,1,Tuxpan,1,0,0,1,160980001,16098,2013
+16,Michoac_n de Ocampo,99,Tuzantla,70,Melchor Ocampo (Paso de Tierra Caliente),1,0,0,1,160990070,16099,2013
+16,Michoac_n de Ocampo,100,Tzintzuntzan,1,Tzintzuntzan,1,1,0,2,161000001,16100,2013
+16,Michoac_n de Ocampo,101,Tzitzio,1,Tzitzio,1,2,0,3,161010001,16101,2013
+16,Michoac_n de Ocampo,102,Uruapan,1,Uruapan,1,2,0,3,161020001,16102,2013
+16,Michoac_n de Ocampo,103,Venustiano Carranza,1,Venustiano Carranza,1,0,0,1,161030001,16103,2013
+16,Michoac_n de Ocampo,104,Villamar,1,Villamar,2,1,0,3,161040001,16104,2013
+16,Michoac_n de Ocampo,104,Villamar,12,Emiliano Zapata,0,1,0,1,161040012,16104,2013
+16,Michoac_n de Ocampo,105,Vista Hermosa,1,Vista Hermosa de Negrete,1,0,0,1,161050001,16105,2013
+16,Michoac_n de Ocampo,106,Yur_cuaro,8,Mirandillas,0,1,0,1,161060008,16106,2013
+16,Michoac_n de Ocampo,106,Yur_cuaro,13,El Tequesquite,0,1,0,1,161060013,16106,2013
+16,Michoac_n de Ocampo,108,Zamora,1,Zamora de Hidalgo,2,1,0,3,161080001,16108,2013
+16,Michoac_n de Ocampo,108,Zamora,3,Ario de Ray_n (Ario Santa M_nica),0,1,0,1,161080003,16108,2013
+16,Michoac_n de Ocampo,110,Zinap_cuaro,1,Zinap_cuaro de Figueroa,1,1,0,2,161100001,16110,2013
+16,Michoac_n de Ocampo,110,Zinap_cuaro,15,Francisco Villa,1,2,0,3,161100015,16110,2013
+16,Michoac_n de Ocampo,110,Zinap_cuaro,48,Ucareo,0,1,0,1,161100048,16110,2013
+16,Michoac_n de Ocampo,112,Zit_cuaro,1,Her_ica Zit_cuaro,0,2,0,2,161120001,16112,2013
+17,Morelos,5,Coatl_n del R_o,1,Coatl_n del R_o,0,2,0,2,170050001,17005,2013
+17,Morelos,9,Huitzilac,1,Huitzilac,0,1,0,1,170090001,17009,2013
+17,Morelos,10,Jantetelco,2,Amayuca,0,1,0,1,170100002,17010,2013
+17,Morelos,14,Mazatepec,1,Mazatepec,0,2,0,2,170140001,17014,2013
+17,Morelos,15,Miacatl_n,1,Miacatl_n,0,1,0,1,170150001,17015,2013
+17,Morelos,15,Miacatl_n,4,Coatetelco,0,1,0,1,170150004,17015,2013
+17,Morelos,16,Ocuituco,1,Ocuituco,0,1,0,1,170160001,17016,2013
+17,Morelos,21,Tetecala,1,Tetecala,0,1,0,1,170210001,17021,2013
+17,Morelos,22,Tetela del Volc_n,2,Hueyapan (San Andr_s Hueyapan),0,1,0,1,170220002,17022,2013
+17,Morelos,31,Zacatepec,1,Zacatepec de Hidalgo,0,1,0,1,170310001,17031,2013
+17,Morelos,31,Zacatepec,2,San Nicol_s Galeana,0,1,0,1,170310002,17031,2013
+17,Morelos,32,Zacualpan de Amilpas,6,Tlacotepec,0,1,0,1,170320006,17032,2013
+18,Nayarit,1,Acaponeta,1,Acaponeta,0,1,0,1,180010001,18001,2013
+18,Nayarit,2,Ahuacatl_n,34,Santa Isabel,0,1,0,1,180020034,18002,2013
+18,Nayarit,4,Compostela,52,Las Coloradas,0,1,0,1,180040052,18004,2013
+18,Nayarit,4,Compostela,83,Ixtapa de la Concepci_n,0,0,1,1,180040083,18004,2013
+18,Nayarit,4,Compostela,128,La Pe_ita de Jaltemba,0,1,0,1,180040128,18004,2013
+18,Nayarit,4,Compostela,191,Zacualpan,0,0,1,1,180040191,18004,2013
+18,Nayarit,5,Huajicori,1,Huajicori,1,0,0,1,180050001,18005,2013
+18,Nayarit,8,Xalisco,20,El Tepozal,0,1,0,1,180080020,18008,2013
+18,Nayarit,8,Xalisco,28,San Antonio,0,1,0,1,180080028,18008,2013
+18,Nayarit,9,Del Nayar,874,Los Encinos,0,1,0,1,180090874,18009,2013
+18,Nayarit,10,Rosamorada,7,Cofrad_a de Cuyutl_n,0,1,0,1,180100007,18010,2013
+18,Nayarit,12,San Blas,1,San Blas,0,0,14,14,180120001,18012,2013
+18,Nayarit,13,San Pedro Lagunillas,1,San Pedro Lagunillas,1,5,0,6,180130001,18013,2013
+18,Nayarit,13,San Pedro Lagunillas,2,Amado Nervo (El Conde),1,1,0,2,180130002,18013,2013
+18,Nayarit,13,San Pedro Lagunillas,3,Cerro Pel_n,1,0,0,1,180130003,18013,2013
+18,Nayarit,13,San Pedro Lagunillas,4,Cuastecomate,1,1,0,2,180130004,18013,2013
+18,Nayarit,13,San Pedro Lagunillas,6,Las Gu_simas,1,2,0,3,180130006,18013,2013
+18,Nayarit,13,San Pedro Lagunillas,8,Milpillas Bajas,1,0,0,1,180130008,18013,2013
+18,Nayarit,13,San Pedro Lagunillas,11,Puerta del R_o,1,0,0,1,180130011,18013,2013
+18,Nayarit,13,San Pedro Lagunillas,15,Tepetiltic,1,1,0,2,180130015,18013,2013
+18,Nayarit,13,San Pedro Lagunillas,16,Tequilita,1,1,0,2,180130016,18013,2013
+18,Nayarit,14,Santa Mar_a del Oro,3,Real de Acuitapilco (Esteban Baca Calder_n),0,1,0,1,180140003,18014,2013
+18,Nayarit,14,Santa Mar_a del Oro,31,La Labor,0,1,1,2,180140031,18014,2013
+18,Nayarit,14,Santa Mar_a del Oro,49,Platanitos,0,0,1,1,180140049,18014,2013
+18,Nayarit,15,Santiago Ixcuintla,50,Patrone_o I,0,1,0,1,180150050,18015,2013
+18,Nayarit,15,Santiago Ixcuintla,80,Villa Hidalgo,0,2,0,2,180150080,18015,2013
+18,Nayarit,15,Santiago Ixcuintla,82,Yago,0,1,0,1,180150082,18015,2013
+18,Nayarit,16,Tecuala,1,Tecuala,0,1,0,1,180160001,18016,2013
+18,Nayarit,16,Tecuala,5,Arenitas,0,1,0,1,180160005,18016,2013
+18,Nayarit,16,Tecuala,8,Camalotita,0,1,0,1,180160008,18016,2013
+18,Nayarit,16,Tecuala,23,El Lim_n,0,1,0,1,180160023,18016,2013
+18,Nayarit,16,Tecuala,39,La Presa,0,1,0,1,180160039,18016,2013
+18,Nayarit,17,Tepic,1,Tepic,3,7,0,10,180170001,18017,2013
+18,Nayarit,17,Tepic,106,Bellavista,1,0,0,1,180170106,18017,2013
+18,Nayarit,17,Tepic,130,Jumat_n,1,0,0,1,180170130,18017,2013
+18,Nayarit,17,Tepic,135,Mora,1,0,0,1,180170135,18017,2013
+18,Nayarit,17,Tepic,140,Platanitos,1,0,0,1,180170140,18017,2013
+18,Nayarit,17,Tepic,151,San Cayetano,1,0,0,1,180170151,18017,2013
+18,Nayarit,18,Tuxpan,1,Tuxpan,0,1,0,1,180180001,18018,2013
+18,Nayarit,18,Tuxpan,12,Palma Grande,0,1,0,1,180180012,18018,2013
+18,Nayarit,20,Bah_a de Banderas,1,Valle de Banderas,0,1,0,1,180200001,18020,2013
+19,Nuevo Le_n,5,An_huac,1,An_huac,0,0,1,1,190050001,19005,2013
+19,Nuevo Le_n,15,Doctor Coss,43,El Palmito,0,1,0,1,190150043,19015,2013
+19,Nuevo Le_n,15,Doctor Coss,108,Altamira,0,1,0,1,190150108,19015,2013
+19,Nuevo Le_n,15,Doctor Coss,207,Doctor Coss,1,0,0,1,190150207,19015,2013
+19,Nuevo Le_n,22,General Ter_n,127,El Llano (San Rafael del Llano),0,1,0,1,190220127,19022,2013
+19,Nuevo Le_n,22,General Ter_n,255,San Pedro,0,1,0,1,190220255,19022,2013
+19,Nuevo Le_n,22,General Ter_n,675,General Ter_n,0,1,0,1,190220675,19022,2013
+19,Nuevo Le_n,24,General Zaragoza,112,Los Chirriones,0,1,0,1,190240112,19024,2013
+19,Nuevo Le_n,24,General Zaragoza,113,El Rosillo,0,1,0,1,190240113,19024,2013
+19,Nuevo Le_n,24,General Zaragoza,137,La Joya de Alard_n,0,1,0,1,190240137,19024,2013
+19,Nuevo Le_n,24,General Zaragoza,197,Zaragoza,0,0,3,3,190240197,19024,2013
+19,Nuevo Le_n,32,Lampazos de Naranjo,1,Lampazos de Naranjo,1,1,0,2,190320001,19032,2013
+19,Nuevo Le_n,33,Linares,1,Linares,0,0,1,1,190330001,19033,2013
+19,Nuevo Le_n,33,Linares,280,El Porvenir,0,0,1,1,190330280,19033,2013
+19,Nuevo Le_n,34,Mar_n,33,Mar_n,0,1,0,1,190340033,19034,2013
+19,Nuevo Le_n,35,Melchor Ocampo,1,Melchor Ocampo,0,1,0,1,190350001,19035,2013
+19,Nuevo Le_n,38,Montemorelos,1,Montemorelos,0,1,0,1,190380001,19038,2013
+19,Nuevo Le_n,38,Montemorelos,211,El Perico,0,1,0,1,190380211,19038,2013
+19,Nuevo Le_n,38,Montemorelos,540,Puerta de la Boca,0,0,2,2,190380540,19038,2013
+19,Nuevo Le_n,39,Monterrey,1,Monterrey,1,0,0,1,190390001,19039,2013
+19,Nuevo Le_n,40,Par_s,1,Par_s,0,1,0,1,190400001,19040,2013
+19,Nuevo Le_n,44,Sabinas Hidalgo,1,Ciudad Sabinas Hidalgo,1,0,3,4,190440001,19044,2013
+19,Nuevo Le_n,47,Hidalgo,1,Hidalgo,0,0,1,1,190470001,19047,2013
+20,Oaxaca,1,Abejones,1,Abejones,1,0,0,1,200010001,20001,2013
+20,Oaxaca,26,Chalcatongo de Hidalgo,9,Iturbide,1,0,0,1,200260009,20026,2013
+20,Oaxaca,31,Tamazul_pam del Esp_ritu Santo,1,Tamazul_pam del Esp_ritu Santo,1,2,0,3,200310001,20031,2013
+20,Oaxaca,31,Tamazul_pam del Esp_ritu Santo,7,Tierra Blanca,1,0,0,1,200310007,20031,2013
+20,Oaxaca,88,San Andr_s Cabecera Nueva,10,Santos Reyes Aldama,1,0,0,1,200880010,20088,2013
+20,Oaxaca,105,San Antonino Monte Verde,8,Santa Mar_a de las Nieves Monteverde,1,0,0,1,201050008,20105,2013
+20,Oaxaca,201,San Juan Juquila Vijanos,3,San Felipe el Porvenir,1,0,0,1,202010003,20201,2013
+20,Oaxaca,209,San Juan Mixtepec,1,San Juan Mixtepec Distrito 26,1,0,0,1,202090001,20209,2013
+20,Oaxaca,247,Capul_lpam de M_ndez,1,Capul_lpam de M_ndez,0,1,0,1,202470001,20247,2013
+20,Oaxaca,269,San Miguel el Grande,1,San Miguel el Grande,1,1,0,2,202690001,20269,2013
+20,Oaxaca,269,San Miguel el Grande,2,Benito Ju_rez,0,1,0,1,202690002,20269,2013
+20,Oaxaca,269,San Miguel el Grande,3,Iturbide,1,0,0,1,202690003,20269,2013
+20,Oaxaca,269,San Miguel el Grande,4,Villa de Guadalupe Victoria,0,1,0,1,202690004,20269,2013
+20,Oaxaca,269,San Miguel el Grande,5,Miguel Hidalgo,0,1,0,1,202690005,20269,2013
+20,Oaxaca,269,San Miguel el Grande,7,Morelos,0,1,0,1,202690007,20269,2013
+20,Oaxaca,269,San Miguel el Grande,8,Vicente Guerrero,0,1,0,1,202690008,20269,2013
+20,Oaxaca,269,San Miguel el Grande,9,Ignacio Zaragoza,0,1,0,1,202690009,20269,2013
+20,Oaxaca,277,Villa Sola de Vega,30,San Antonio,1,0,0,1,202770030,20277,2013
+20,Oaxaca,286,San Miguel Tlacotepec,1,San Miguel Tlacotepec,0,1,0,1,202860001,20286,2013
+20,Oaxaca,297,San Pablo Tijaltepec,3,Candelaria la Uni_n,0,1,0,1,202970003,20297,2013
+20,Oaxaca,298,San Pablo Villa de Mitla,7,Santa Mar_a Albarradas,1,0,0,1,202980007,20298,2013
+20,Oaxaca,320,San Pedro Molinos,1,San Pedro Molinos,1,0,0,1,203200001,20320,2013
+20,Oaxaca,372,Santa Catarina Yosonot_,1,Santa Catarina Yosonot_,1,0,0,1,203720001,20372,2013
+20,Oaxaca,417,Santa Mar_a Jacatepec,1,Santa Mar_a Jacatepec,0,1,0,1,204170001,20417,2013
+20,Oaxaca,417,Santa Mar_a Jacatepec,8,La Florida,0,1,0,1,204170008,20417,2013
+20,Oaxaca,461,Santiago del R_o,2,San Francisco Higos,0,1,0,1,204610002,20461,2013
+20,Oaxaca,475,Santiago Matatl_n,1,Santiago Matatl_n,0,1,0,1,204750001,20475,2013
+20,Oaxaca,475,Santiago Matatl_n,2,Rancho Colorado,0,1,0,1,204750002,20475,2013
+20,Oaxaca,475,Santiago Matatl_n,4,Rancho San Felipe,2,0,0,2,204750004,20475,2013
+20,Oaxaca,475,Santiago Matatl_n,5,San Pablo Guil_,1,0,0,1,204750005,20475,2013
+20,Oaxaca,517,Santo Domingo Tepuxtepec,1,Santo Domingo Tepuxtepec,1,0,0,1,205170001,20517,2013
+20,Oaxaca,520,Santo Domingo Tonal_,21,Natividad,0,1,0,1,205200021,20520,2013
+20,Oaxaca,549,"Heroica Villa Tezoatl_n de Segura y Luna, Cuna de la Independencia de Oaxaca",15,Santa Mar_a Tind_,0,1,0,1,205490015,20549,2013
+20,Oaxaca,563,Yogana,1,Yogana,0,1,0,1,205630001,20563,2013
+20,Oaxaca,566,San Mateo Yucutindoo,9,San Mateo Yucutindoo,2,0,0,2,205660009,20566,2013
+21,Puebla,16,Aquixtla,6,Coayuca,0,1,0,1,210160006,21016,2013
+21,Puebla,19,Atlixco,1,Atlixco,0,0,1,1,210190001,21019,2013
+21,Puebla,26,Calpan,3,San Mateo Ozolco,0,0,1,1,210260003,21026,2013
+21,Puebla,42,Cuayuca de Andrade,1,San Pedro Cuayuca,0,1,0,1,210420001,21042,2013
+21,Puebla,47,Chiautla,33,Cruz Verde,1,0,0,1,210470033,21047,2013
+21,Puebla,47,Chiautla,82,Santa Ana Tecolapa,0,1,0,1,210470082,21047,2013
+21,Puebla,47,Chiautla,95,Tepoxmatla,1,0,0,1,210470095,21047,2013
+21,Puebla,85,Iz_car de Matamoros,16,La Galarza,0,1,0,1,210850016,21085,2013
+21,Puebla,114,Puebla,1,Her_ica Puebla de Zaragoza,0,0,2,2,211140001,21114,2013
+21,Puebla,127,San Jer_nimo Xayacatl_n,28,Segunda Secci_n de San Jer_nimo Xayacatl_n,0,1,0,1,211270028,21127,2013
+21,Puebla,142,San Salvador el Seco,1,San Salvador el Seco,1,1,1,3,211420001,21142,2013
+21,Puebla,142,San Salvador el Seco,13,Paso Puente Santa Ana,0,1,0,1,211420013,21142,2013
+21,Puebla,147,Santa In_s Ahuatempan,1,Santa In_s Ahuatempan,0,1,0,1,211470001,21147,2013
+21,Puebla,151,Santo Tom_s Hueyotlipan,1,Santo Tom_s Hueyotlipan,0,1,0,1,211510001,21151,2013
+21,Puebla,151,Santo Tom_s Hueyotlipan,2,San Miguel Zacaola,0,0,1,1,211510002,21151,2013
+21,Puebla,166,Tepeojuma,1,Tepeojuma,1,0,0,1,211660001,21166,2013
+21,Puebla,184,Tlapacoya,24,Tlapacoya,0,0,1,1,211840024,21184,2013
+21,Puebla,191,Tulcingo,4,Guadalupe Victoria,0,1,0,1,211910004,21191,2013
+21,Puebla,201,Xochiltepec,2,Ayotla,0,1,0,1,212010002,21201,2013
+21,Puebla,203,Xochitl_n Todos Santos,1,Xochitl_n,0,2,0,2,212030001,21203,2013
+22,Quer_taro,1,Amealco de Bonfil,20,La Ladera,0,2,0,2,220010020,22001,2013
+22,Quer_taro,1,Amealco de Bonfil,21,Laguna de Serv_n,2,4,1,7,220010021,22001,2013
+22,Quer_taro,3,Arroyo Seco,14,Conc_,0,1,0,1,220030014,22003,2013
+22,Quer_taro,3,Arroyo Seco,32,La Mohonera,0,1,0,1,220030032,22003,2013
+22,Quer_taro,3,Arroyo Seco,42,Pur_sima de Arista,1,0,1,2,220030042,22003,2013
+22,Quer_taro,3,Arroyo Seco,44,El Refugio,0,2,0,2,220030044,22003,2013
+22,Quer_taro,3,Arroyo Seco,56,San Juan Buenaventura,0,1,0,1,220030056,22003,2013
+22,Quer_taro,3,Arroyo Seco,68,El Crucero del Sabinito,0,0,1,1,220030068,22003,2013
+22,Quer_taro,4,Cadereyta de Montes,129,Vizarr_n de Montes,0,1,0,1,220040129,22004,2013
+22,Quer_taro,7,Ezequiel Montes,1,Ezequiel Montes,0,1,2,3,220070001,22007,2013
+22,Quer_taro,8,Huimilpan,30,San Ignacio,0,2,0,2,220080030,22008,2013
+22,Quer_taro,9,Jalpan de Serra,60,Valle Verde,1,0,0,1,220090060,22009,2013
+22,Quer_taro,9,Jalpan de Serra,74,Saldive_a,1,0,0,1,220090074,22009,2013
+22,Quer_taro,9,Jalpan de Serra,95,Zoyapilca,1,0,0,1,220090095,22009,2013
+22,Quer_taro,9,Jalpan de Serra,177,El Pocito,0,1,0,1,220090177,22009,2013
+22,Quer_taro,10,Landa de Matamoros,1,Landa de Matamoros,1,2,0,3,220100001,22010,2013
+22,Quer_taro,10,Landa de Matamoros,2,Acatitl_n de Zaragoza,0,2,0,2,220100002,22010,2013
+22,Quer_taro,10,Landa de Matamoros,4,Agua Zarca,1,2,0,3,220100004,22010,2013
+22,Quer_taro,10,Landa de Matamoros,8,Las _nimas,0,0,1,1,220100008,22010,2013
+22,Quer_taro,10,Landa de Matamoros,17,La Lagunita,1,5,0,6,220100017,22010,2013
+22,Quer_taro,10,Landa de Matamoros,28,Otates,1,1,1,3,220100028,22010,2013
+22,Quer_taro,10,Landa de Matamoros,32,Pinalito de la Cruz,1,2,0,3,220100032,22010,2013
+22,Quer_taro,10,Landa de Matamoros,40,R_o Verdito,1,2,0,3,220100040,22010,2013
+22,Quer_taro,10,Landa de Matamoros,44,San Juanito,1,2,0,3,220100044,22010,2013
+22,Quer_taro,10,Landa de Matamoros,46,Santa In_s,1,1,0,2,220100046,22010,2013
+22,Quer_taro,10,Landa de Matamoros,48,Tilaco,1,1,0,2,220100048,22010,2013
+22,Quer_taro,10,Landa de Matamoros,50,Tres Lagunas,0,1,0,1,220100050,22010,2013
+22,Quer_taro,10,Landa de Matamoros,51,Las Vallas,0,2,0,2,220100051,22010,2013
+22,Quer_taro,10,Landa de Matamoros,52,Valle de Guadalupe,0,1,0,1,220100052,22010,2013
+22,Quer_taro,10,Landa de Matamoros,53,La Vuelta,1,1,0,2,220100053,22010,2013
+22,Quer_taro,10,Landa de Matamoros,85,Laguna de San Miguel,0,1,0,1,220100085,22010,2013
+22,Quer_taro,10,Landa de Matamoros,133,Barrio San Esteban,1,2,0,3,220100133,22010,2013
+22,Quer_taro,12,Pedro Escobedo,13,Escol_sticas,0,5,2,7,220120013,22012,2013
+22,Quer_taro,12,Pedro Escobedo,18,Ignacio P_rez (El Muerto),0,1,0,1,220120018,22012,2013
+22,Quer_taro,12,Pedro Escobedo,26,San Antonio la D,1,1,2,4,220120026,22012,2013
+22,Quer_taro,15,San Joaqu_n,1,San Joaqu_n,2,4,0,6,220150001,22015,2013
+22,Quer_taro,15,San Joaqu_n,3,Apartadero,2,0,0,2,220150003,22015,2013
+22,Quer_taro,15,San Joaqu_n,9,Los Herrera,1,0,0,1,220150009,22015,2013
+22,Quer_taro,15,San Joaqu_n,11,Maravillas,1,1,0,2,220150011,22015,2013
+22,Quer_taro,15,San Joaqu_n,42,El Durazno,1,2,0,3,220150042,22015,2013
+22,Quer_taro,15,San Joaqu_n,62,La Guadalupana,1,3,1,5,220150062,22015,2013
+22,Quer_taro,16,San Juan del R_o,51,Salto de Vaquer_as,2,0,0,2,220160051,22016,2013
+23,Quintana Roo,1,Cozumel,1,Cozumel,4,0,0,4,230010001,23001,2013
+24,San Luis Potos_,1,Ahualulco,10,El Zapote (Cerrito Blanco),0,1,0,1,240010010,24001,2013
+24,San Luis Potos_,4,Armadillo de los Infante,37,Pozo del Carmen,0,1,0,1,240040037,24004,2013
+24,San Luis Potos_,7,Cedral,14,Jes_s Mar_a,0,1,0,1,240070014,24007,2013
+24,San Luis Potos_,9,Cerro de San Pedro,8,Portezuelo,0,1,0,1,240090008,24009,2013
+24,San Luis Potos_,18,Huehuetl_n,4,Huichihuay_n,0,1,0,1,240180004,24018,2013
+24,San Luis Potos_,21,Mexquitic de Carmona,47,Monte Obscuro,0,1,0,1,240210047,24021,2013
+24,San Luis Potos_,23,Ray_n,1,Ray_n,0,1,0,1,240230001,24023,2013
+24,San Luis Potos_,25,Salinas,1,Salinas de Hidalgo,0,1,0,1,240250001,24025,2013
+24,San Luis Potos_,27,San Ciro de Acosta,1,San Ciro de Acosta,0,1,0,1,240270001,24027,2013
+24,San Luis Potos_,32,Santa Mar_a del R_o,260,Ejido la Pitahaya (Santo Domingo),0,2,0,2,240320260,24032,2013
+24,San Luis Potos_,33,Santo Domingo,14,Illescas,0,1,0,1,240330014,24033,2013
+24,San Luis Potos_,34,San Vicente Tancuayalab,1,San Vicente Tancuayalab,0,1,0,1,240340001,24034,2013
+24,San Luis Potos_,39,Tampamol_n Corona,1,Tampamol_n Corona,0,2,0,2,240390001,24039,2013
+24,San Luis Potos_,41,Tanlaj_s,1,Tanlaj_s,0,1,0,1,240410001,24041,2013
+24,San Luis Potos_,46,Villa de Arriaga,1,Villa de Arriaga,0,1,0,1,240460001,24046,2013
+24,San Luis Potos_,46,Villa de Arriaga,83,El Tepetate,0,1,0,1,240460083,24046,2013
+24,San Luis Potos_,47,Villa de Guadalupe,35,Rancho Alegre,0,1,0,1,240470035,24047,2013
+24,San Luis Potos_,49,Villa de Ramos,43,El Zacat_n,0,1,0,1,240490043,24049,2013
+24,San Luis Potos_,52,Villa Ju_rez,10,Granjenal,0,1,0,1,240520010,24052,2013
+24,San Luis Potos_,55,Zaragoza,95,Texas,0,1,0,1,240550095,24055,2013
+24,San Luis Potos_,58,El Naranjo,146,El Naranjo,0,1,0,1,240580146,24058,2013
+25,Sinaloa,1,Ahome,1,Los Mochis,0,1,0,1,250010001,25001,2013
+25,Sinaloa,1,Ahome,156,Gustavo D_az Ordaz (El Carrizo),0,2,0,2,250010156,25001,2013
+25,Sinaloa,6,Culiac_n,312,Costa Rica,0,1,0,1,250060312,25006,2013
+25,Sinaloa,6,Culiac_n,341,Eldorado,0,2,0,2,250060341,25006,2013
+25,Sinaloa,6,Culiac_n,413,Imala,0,1,0,1,250060413,25006,2013
+25,Sinaloa,6,Culiac_n,514,Obispo,0,0,1,1,250060514,25006,2013
+25,Sinaloa,6,Culiac_n,591,Quil_,0,1,0,1,250060591,25006,2013
+25,Sinaloa,6,Culiac_n,622,El Salado,0,1,0,1,250060622,25006,2013
+25,Sinaloa,6,Culiac_n,627,Sanalona,0,1,0,1,250060627,25006,2013
+25,Sinaloa,8,Elota,1,La Cruz,0,1,0,1,250080001,25008,2013
+25,Sinaloa,11,Guasave,35,Adolfo Ruiz Cortines,0,0,1,1,250110035,25011,2013
+25,Sinaloa,11,Guasave,63,Buen Retiro (El Retiro),0,0,1,1,250110063,25011,2013
+25,Sinaloa,11,Guasave,269,Tamazula,0,0,2,2,250110269,25011,2013
+26,Sonora,6,Arizpe,1,Arizpe,0,1,0,1,260060001,26006,2013
+26,Sonora,12,B_cum,93,San Jos_ de B_cum,0,1,0,1,260120093,26012,2013
+26,Sonora,14,Bavi_cora,1,Bavi_cora,0,1,0,1,260140001,26014,2013
+26,Sonora,30,Hermosillo,1,Hermosillo,1,1,0,2,260300001,26030,2013
+26,Sonora,31,Huachinera,1,Huachinera,0,1,0,1,260310001,26031,2013
+26,Sonora,38,Moctezuma,1,Moctezuma,0,1,0,1,260380001,26038,2013
+26,Sonora,51,Rosario,1,Rosario,1,1,0,2,260510001,26051,2013
+26,Sonora,61,Soyopa,1,Soyopa,0,1,0,1,260610001,26061,2013
+26,Sonora,69,Y_cora,1,Y_cora,0,1,0,1,260690001,26069,2013
+26,Sonora,72,San Ignacio R_o Muerto,17,Bah_a de Lobos,0,1,0,1,260720017,26072,2013
+28,Tamaulipas,3,Altamira,1,Altamira,0,1,0,1,280030001,28003,2013
+28,Tamaulipas,5,Burgos,1,Burgos,0,1,0,1,280050001,28005,2013
+28,Tamaulipas,12,Gonz_lez,61,Graciano S_nchez,0,1,0,1,280120061,28012,2013
+28,Tamaulipas,12,Gonz_lez,393,L_pez Ray_n,0,1,0,1,280120393,28012,2013
+28,Tamaulipas,12,Gonz_lez,1192,Graciano S_nchez (Fidel Briones D_vila),0,1,0,1,280121192,28012,2013
+28,Tamaulipas,14,Guerrero,1,Nueva Ciudad Guerrero,1,0,0,1,280140001,28014,2013
+28,Tamaulipas,15,Gustavo D_az Ordaz,1,Ciudad Gustavo D_az Ordaz,0,2,0,2,280150001,28015,2013
+28,Tamaulipas,16,Hidalgo,403,Guillermo Z__iga,0,1,0,1,280160403,28016,2013
+28,Tamaulipas,17,Jaumave,29,Jos_ Mar_a Morelos (El Nopal),0,1,0,1,280170029,28017,2013
+28,Tamaulipas,18,Jim_nez,1,Santander Jim_nez,0,1,0,1,280180001,28018,2013
+28,Tamaulipas,19,Llera,1,Llera de Canales,0,1,0,1,280190001,28019,2013
+28,Tamaulipas,21,El Mante,1,Ciudad Mante,0,1,0,1,280210001,28021,2013
+28,Tamaulipas,22,Matamoros,1,Heroica Matamoros,0,2,0,2,280220001,28022,2013
+28,Tamaulipas,22,Matamoros,603,Las Higuerillas,0,1,0,1,280220603,28022,2013
+28,Tamaulipas,24,Mier,1,Mier,0,1,0,1,280240001,28024,2013
+28,Tamaulipas,32,Reynosa,497,Baltazar D_az Baz_n Uno,0,1,0,1,280320497,28032,2013
+28,Tamaulipas,32,Reynosa,737,Divisi_n del Norte,0,1,0,1,280320737,28032,2013
+28,Tamaulipas,34,San Carlos,537,Alfredo V. Bonfil,0,1,0,1,280340537,28034,2013
+28,Tamaulipas,39,Tula,1,Ciudad Tula,0,1,0,1,280390001,28039,2013
+28,Tamaulipas,39,Tula,27,Cieneguillas,1,0,0,1,280390027,28039,2013
+28,Tamaulipas,40,Valle Hermoso,4,An_huac,0,1,0,1,280400004,28040,2013
+28,Tamaulipas,40,Valle Hermoso,67,El Realito,0,1,0,1,280400067,28040,2013
+28,Tamaulipas,42,Villagr_n,1,Villagr_n,0,2,0,2,280420001,28042,2013
+28,Tamaulipas,43,Xicot_ncatl,210,Carrera Torres,0,1,0,1,280430210,28043,2013
+29,Tlaxcala,7,El Carmen Tequexquitla,1,Villa de El Carmen Tequexquitla,0,2,0,2,290070001,29007,2013
+29,Tlaxcala,14,Hueyotlipan,1,Hueyotlipan,0,3,0,3,290140001,29014,2013
+29,Tlaxcala,29,Tepeyanco,1,Tepeyanco,0,1,0,1,290290001,29029,2013
+29,Tlaxcala,30,Terrenate,38,Nicol_s Bravo,0,1,0,1,290300038,29030,2013
+29,Tlaxcala,34,Tlaxco,1,Tlaxco,0,1,0,1,290340001,29034,2013
+29,Tlaxcala,36,Totolac,1,San Juan Totolac,0,2,0,2,290360001,29036,2013
+29,Tlaxcala,36,Totolac,5,Los Reyes Quiahuixtl_n,0,1,0,1,290360005,29036,2013
+30,Veracruz de Ignacio de la Llave,3,Acayucan,1,Acayucan,0,2,0,2,300030001,30003,2013
+30,Veracruz de Ignacio de la Llave,4,Actopan,1,Actopan,0,1,0,1,300040001,30004,2013
+30,Veracruz de Ignacio de la Llave,9,Alto Lucero de Guti_rrez Barrios,72,Tierra Blanca,0,1,0,1,300090072,30009,2013
+30,Veracruz de Ignacio de la Llave,42,Colipa,1,Colipa,0,1,0,1,300420001,30042,2013
+30,Veracruz de Ignacio de la Llave,42,Colipa,17,Cerro del Aguacate,0,1,0,1,300420017,30042,2013
+30,Veracruz de Ignacio de la Llave,53,Cuitl_huac,7,Mata Naranjo (El Nanche),0,4,0,4,300530007,30053,2013
+30,Veracruz de Ignacio de la Llave,125,Paso del Macho,1,Paso del Macho,0,1,0,1,301250001,30125,2013
+30,Veracruz de Ignacio de la Llave,125,Paso del Macho,7,El Zapotal,0,1,0,1,301250007,30125,2013
+30,Veracruz de Ignacio de la Llave,125,Paso del Macho,20,Cerro Azul,0,1,0,1,301250020,30125,2013
+30,Veracruz de Ignacio de la Llave,136,Rafael Lucio,1,Rafael Lucio,0,5,0,5,301360001,30136,2013
+30,Veracruz de Ignacio de la Llave,176,Tlacojalpan,1,Tlacojalpan,0,3,0,3,301760001,30176,2013
+30,Veracruz de Ignacio de la Llave,190,Tuxtilla,1,Tuxtilla,0,2,0,2,301900001,30190,2013
+30,Veracruz de Ignacio de la Llave,194,Villa Aldama,1,Villa Aldama,0,1,0,1,301940001,30194,2013
+30,Veracruz de Ignacio de la Llave,199,Zaragoza,1,Zaragoza,0,2,0,2,301990001,30199,2013
+31,Yucat_n,2,Acanceh,1,Acanceh,0,1,0,1,310020001,31002,2013
+31,Yucat_n,3,Akil,1,Akil,0,1,0,1,310030001,31003,2013
+31,Yucat_n,7,Cacalch_n,1,Cacalch_n,0,1,0,1,310070001,31007,2013
+31,Yucat_n,12,Cenotillo,135,Cenotillo,0,1,0,1,310120135,31012,2013
+31,Yucat_n,16,Chacsink_n,1,Chacsink_n,0,1,0,1,310160001,31016,2013
+31,Yucat_n,23,Chochol_,1,Chochol_,0,1,0,1,310230001,31023,2013
+31,Yucat_n,28,Dzilam de Bravo,1,Dzilam de Bravo,0,1,0,1,310280001,31028,2013
+31,Yucat_n,29,Dzilam Gonz_lez,1,Dzilam Gonz_lez,0,1,0,1,310290001,31029,2013
+31,Yucat_n,32,Espita,1,Espita,0,1,0,1,310320001,31032,2013
+31,Yucat_n,36,Hom_n,12,San Isidro Ochil,0,1,0,1,310360012,31036,2013
+31,Yucat_n,39,Ixil,1,Ixil,0,1,0,1,310390001,31039,2013
+31,Yucat_n,49,Mayap_n,1,Mayap_n,0,1,0,1,310490001,31049,2013
+31,Yucat_n,52,Motul,2,Uc_,0,1,0,1,310520002,31052,2013
+31,Yucat_n,58,Peto,1,Peto,0,1,0,1,310580001,31058,2013
+31,Yucat_n,61,R_o Lagartos,1,R_o Lagartos,0,1,0,1,310610001,31061,2013
+31,Yucat_n,62,Sacalum,1,Sacalum,0,1,0,1,310620001,31062,2013
+31,Yucat_n,73,Tahdzi_,1,Tahdzi_,1,0,0,1,310730001,31073,2013
+31,Yucat_n,83,Telchac Puerto,1,Telchac Puerto,0,1,0,1,310830001,31083,2013
+31,Yucat_n,86,Tepak_n,1,Tepak_n,0,1,0,1,310860001,31086,2013
+31,Yucat_n,89,Ticul,1,Ticul,0,1,0,1,310890001,31089,2013
+31,Yucat_n,96,Tizim_n,1,Tizim_n,0,1,0,1,310960001,31096,2013
+31,Yucat_n,98,Tzucacab,1,Tzucacab,0,1,0,1,310980001,31098,2013
+31,Yucat_n,101,Um_n,12,San Antonio Chum,0,1,0,1,311010012,31101,2013
+31,Yucat_n,102,Valladolid,1,Valladolid,0,1,0,1,311020001,31102,2013
+32,Zacatecas,1,Apozol,1,Apozol,1,1,1,3,320010001,32001,2013
+32,Zacatecas,3,Atolinga,1,Atolinga,1,0,0,1,320030001,32003,2013
+32,Zacatecas,5,Calera,1,V_ctor Rosales,0,10,0,10,320050001,32005,2013
+32,Zacatecas,9,Chalchihuites,53,Soledad del Sur,0,0,1,1,320090053,32009,2013
+32,Zacatecas,10,Fresnillo,1,Fresnillo,3,1,3,7,320100001,32010,2013
+32,Zacatecas,10,Fresnillo,105,Francisco I. Madero,0,0,1,1,320100105,32010,2013
+32,Zacatecas,10,Fresnillo,389,San Pedro de _brego,0,0,1,1,320100389,32010,2013
+32,Zacatecas,10,Fresnillo,775,El Salitrillo,0,0,1,1,320100775,32010,2013
+32,Zacatecas,10,Fresnillo,1288,San Jos_ del Refugio (Los Rodr_guez),1,0,0,1,320101288,32010,2013
+32,Zacatecas,11,Trinidad Garc_a de la Cadena,1,Trinidad Garc_a de la Cadena,0,2,0,2,320110001,32011,2013
+32,Zacatecas,11,Trinidad Garc_a de la Cadena,15,Las Higueras,0,1,0,1,320110015,32011,2013
+32,Zacatecas,11,Trinidad Garc_a de la Cadena,40,San Mart_n de las Pe_as (San Mart_n de Arriba),0,1,0,1,320110040,32011,2013
+32,Zacatecas,14,General Francisco R. Murgu_a,1,Nieves,1,4,0,5,320140001,32014,2013
+32,Zacatecas,14,General Francisco R. Murgu_a,19,Francisco I. Madero (Colonia Madero),0,1,0,1,320140019,32014,2013
+32,Zacatecas,14,General Francisco R. Murgu_a,23,La Laguna (La Laguna Valenciana),0,1,0,1,320140023,32014,2013
+32,Zacatecas,14,General Francisco R. Murgu_a,42,San Gil,0,1,0,1,320140042,32014,2013
+32,Zacatecas,14,General Francisco R. Murgu_a,46,San Jos_ de Morteros (Morteros),0,1,0,1,320140046,32014,2013
+32,Zacatecas,14,General Francisco R. Murgu_a,48,San Lucas,0,1,0,1,320140048,32014,2013
+32,Zacatecas,14,General Francisco R. Murgu_a,57,Villa C_rdenas,0,1,0,1,320140057,32014,2013
+32,Zacatecas,15,El Plateado de Joaqu_n Amaro,1,El Plateado de Joaqu_n Amaro,1,0,0,1,320150001,32015,2013
+32,Zacatecas,17,Guadalupe,1,Guadalupe,0,6,2,8,320170001,32017,2013
+32,Zacatecas,19,Jalpa,1,Jalpa,1,1,1,3,320190001,32019,2013
+32,Zacatecas,19,Jalpa,41,La Cuartilla,0,1,0,1,320190041,32019,2013
+32,Zacatecas,19,Jalpa,152,Villita de Abajo (La Villita San Lorenzo),0,2,0,2,320190152,32019,2013
+32,Zacatecas,19,Jalpa,157,Santa Juana (Ignacio Zaragoza),0,3,0,3,320190157,32019,2013
+32,Zacatecas,20,Jerez,1,Jerez de Garc_a Salinas,2,3,0,5,320200001,32020,2013
+32,Zacatecas,20,Jerez,24,Ermita de Guadalupe,0,1,0,1,320200024,32020,2013
+32,Zacatecas,20,Jerez,43,Jomulquillo,1,0,0,1,320200043,32020,2013
+32,Zacatecas,20,Jerez,116,La Ci_nega,0,1,0,1,320200116,32020,2013
+32,Zacatecas,20,Jerez,121,La Gavia,0,4,0,4,320200121,32020,2013
+32,Zacatecas,22,Juan Aldama,1,Juan Aldama,0,6,1,7,320220001,32022,2013
+32,Zacatecas,22,Juan Aldama,11,Ojitos,1,0,0,1,320220011,32022,2013
+32,Zacatecas,23,Juchipila,1,Juchipila,2,1,1,4,320230001,32023,2013
+32,Zacatecas,23,Juchipila,41,El Remolino,0,2,1,3,320230041,32023,2013
+32,Zacatecas,24,Loreto,12,Felipe Carrillo Puerto (Carrillo Puerto),0,1,0,1,320240012,32024,2013
+32,Zacatecas,25,Luis Moya,1,Luis Moya,0,4,2,6,320250001,32025,2013
+32,Zacatecas,28,Mezquital del Oro,1,Mezquital del Oro,1,0,0,1,320280001,32028,2013
+32,Zacatecas,29,Miguel Auza,1,Miguel Auza,0,1,1,2,320290001,32029,2013
+32,Zacatecas,29,Miguel Auza,9,Colonia Veinte de Noviembre (Santa Ana),0,0,1,1,320290009,32029,2013
+32,Zacatecas,29,Miguel Auza,79,Campo Veinte (La Honda),1,0,0,1,320290079,32029,2013
+32,Zacatecas,30,Momax,1,Momax,1,5,0,6,320300001,32030,2013
+32,Zacatecas,30,Momax,22,Los Reales,0,1,0,1,320300022,32030,2013
+32,Zacatecas,30,Momax,23,San Jos_ de los Mota,0,1,0,1,320300023,32030,2013
+32,Zacatecas,30,Momax,30,Los Vela,0,2,0,2,320300030,32030,2013
+32,Zacatecas,32,Morelos,1,Morelos,0,2,0,2,320320001,32032,2013
+32,Zacatecas,32,Morelos,11,Hacienda Nueva,1,4,0,5,320320011,32032,2013
+32,Zacatecas,32,Morelos,14,Las Pilas,0,1,0,1,320320014,32032,2013
+32,Zacatecas,33,Moyahua de Estrada,10,Los Baj_os,0,1,0,1,320330010,32033,2013
+32,Zacatecas,34,Nochistl_n de Mej_a,1,Nochistl_n de Mej_a,2,4,4,10,320340001,32034,2013
+32,Zacatecas,34,Nochistl_n de Mej_a,44,La Cofrad_a,0,1,0,1,320340044,32034,2013
+32,Zacatecas,34,Nochistl_n de Mej_a,52,Daniel Camarena (Las _nimas),0,1,1,2,320340052,32034,2013
+32,Zacatecas,34,Nochistl_n de Mej_a,61,Gabriel L_pez,0,1,0,1,320340061,32034,2013
+32,Zacatecas,34,Nochistl_n de Mej_a,66,Las Huertas,0,1,0,1,320340066,32034,2013
+32,Zacatecas,34,Nochistl_n de Mej_a,178,El Sitio,0,1,0,1,320340178,32034,2013
+32,Zacatecas,34,Nochistl_n de Mej_a,187,Tlachichila,1,2,0,3,320340187,32034,2013
+32,Zacatecas,34,Nochistl_n de Mej_a,201,La Villita,0,3,0,3,320340201,32034,2013
+32,Zacatecas,36,Ojocaliente,1,Ojocaliente,0,1,0,1,320360001,32036,2013
+32,Zacatecas,37,P_nuco,4,Casa de Cerros,0,0,1,1,320370004,32037,2013
+32,Zacatecas,37,P_nuco,17,Los Pozos,0,0,1,1,320370017,32037,2013
+32,Zacatecas,37,P_nuco,21,San Antonio del Cipr_s,0,0,1,1,320370021,32037,2013
+32,Zacatecas,37,P_nuco,142,Pozo Cinco San Antonio (San Antonio del Cipr_s),0,0,1,1,320370142,32037,2013
+32,Zacatecas,38,Pinos,1,Pinos,0,1,0,1,320380001,32038,2013
+32,Zacatecas,38,Pinos,60,Esp_ritu Santo [Estaci_n],0,1,0,1,320380060,32038,2013
+32,Zacatecas,38,Pinos,74,El Jaibito,0,1,0,1,320380074,32038,2013
+32,Zacatecas,38,Pinos,76,Jaula de Abajo,0,2,0,2,320380076,32038,2013
+32,Zacatecas,38,Pinos,84,Jos_ Mar_a Pino Su_rez (La Colorada),0,1,0,1,320380084,32038,2013
+32,Zacatecas,38,Pinos,85,La Laborcilla,0,2,0,2,320380085,32038,2013
+32,Zacatecas,38,Pinos,126,La Pendencia,0,1,0,1,320380126,32038,2013
+32,Zacatecas,38,Pinos,174,San Jos_ de la Venta,0,1,0,1,320380174,32038,2013
+32,Zacatecas,38,Pinos,182,San Miguel (San Miguel del Zacatal),0,1,0,1,320380182,32038,2013
+32,Zacatecas,38,Pinos,186,Santa Ana,0,1,0,1,320380186,32038,2013
+32,Zacatecas,38,Pinos,194,Santa Gertrudis,0,1,0,1,320380194,32038,2013
+32,Zacatecas,38,Pinos,196,Santiago,0,1,0,1,320380196,32038,2013
+32,Zacatecas,38,Pinos,311,El Salitrillo,0,1,0,1,320380311,32038,2013
+32,Zacatecas,39,R_o Grande,1,R_o Grande,2,3,0,5,320390001,32039,2013
+32,Zacatecas,39,R_o Grande,8,Emiliano Zapata (Morones),0,1,0,1,320390008,32039,2013
+32,Zacatecas,39,R_o Grande,20,Loreto,0,1,0,1,320390020,32039,2013
+32,Zacatecas,40,Sain Alto,1,Sain Alto,0,2,0,2,320400001,32040,2013
+32,Zacatecas,42,Sombrerete,1,Sombrerete,0,1,0,1,320420001,32042,2013
+32,Zacatecas,42,Sombrerete,42,Colonia Gonz_lez Ortega,0,1,0,1,320420042,32042,2013
+32,Zacatecas,42,Sombrerete,44,Hidalgo (Colonia Hidalgo),0,1,0,1,320420044,32042,2013
+32,Zacatecas,42,Sombrerete,68,Ojo de Agua,1,0,0,1,320420068,32042,2013
+32,Zacatecas,42,Sombrerete,139,Villa Insurgentes (El Calabazal),1,0,0,1,320420139,32042,2013
+32,Zacatecas,42,Sombrerete,176,Charco Blanco,0,1,0,1,320420176,32042,2013
+32,Zacatecas,42,Sombrerete,189,Nicol_s Fern_ndez Carrillo (Mateo G_mez),1,0,0,1,320420189,32042,2013
+32,Zacatecas,45,Tepechitl_n,1,Tepechitl_n,5,8,1,14,320450001,32045,2013
+32,Zacatecas,46,Tepetongo,1,Tepetongo,1,0,0,1,320460001,32046,2013
+32,Zacatecas,48,Tlaltenango de S_nchez Rom_n,1,Tlaltenango de S_nchez Rom_n,1,1,0,2,320480001,32048,2013
+32,Zacatecas,48,Tlaltenango de S_nchez Rom_n,4,Las Azucenas,0,1,0,1,320480004,32048,2013
+32,Zacatecas,48,Tlaltenango de S_nchez Rom_n,11,Cicacalco,0,1,0,1,320480011,32048,2013
+32,Zacatecas,49,Valpara_so,1,Valpara_so,1,1,1,3,320490001,32049,2013
+32,Zacatecas,49,Valpara_so,13,El Astillero,1,0,0,1,320490013,32049,2013
+32,Zacatecas,49,Valpara_so,38,Cruces,1,1,0,2,320490038,32049,2013
+32,Zacatecas,49,Valpara_so,51,La Florida,1,0,0,1,320490051,32049,2013
+32,Zacatecas,49,Valpara_so,59,Lobatos,1,1,0,2,320490059,32049,2013
+32,Zacatecas,49,Valpara_so,62,Mala Noche,1,0,0,1,320490062,32049,2013
+32,Zacatecas,49,Valpara_so,85,Potrero de Gallegos,1,0,0,1,320490085,32049,2013
+32,Zacatecas,49,Valpara_so,91,El Resbal_n,0,1,0,1,320490091,32049,2013
+32,Zacatecas,49,Valpara_so,99,San Antonio de Sauceda (Sauceda),1,0,0,1,320490099,32049,2013
+32,Zacatecas,49,Valpara_so,107,San Jos_ de Llanetes,2,0,0,2,320490107,32049,2013
+32,Zacatecas,49,Valpara_so,114,J. Jes_s Gonz_lez Ortega (San Mateo),1,0,0,1,320490114,32049,2013
+32,Zacatecas,49,Valpara_so,121,Santa Ana de Arriba,1,0,0,1,320490121,32049,2013
+32,Zacatecas,49,Valpara_so,123,Santa Luc_a de la Sierra,1,0,0,1,320490123,32049,2013
+32,Zacatecas,49,Valpara_so,136,El Tejuj_n,0,1,0,1,320490136,32049,2013
+32,Zacatecas,49,Valpara_so,139,Trojes,1,0,0,1,320490139,32049,2013
+32,Zacatecas,49,Valpara_so,623,El Crucero de Santa Cruz,0,1,0,1,320490623,32049,2013
+32,Zacatecas,50,Vetagrande,1,Vetagrande,0,1,0,1,320500001,32050,2013
+32,Zacatecas,50,Vetagrande,10,Santa Rita,0,1,0,1,320500010,32050,2013
+32,Zacatecas,51,Villa de Cos,1,Villa de Cos,1,4,1,6,320510001,32051,2013
+32,Zacatecas,52,Villa Garc_a,1,Villa Garc_a,0,2,0,2,320520001,32052,2013
+32,Zacatecas,52,Villa Garc_a,21,Ignacio Zaragoza (San Ignacio),0,1,0,1,320520021,32052,2013
+32,Zacatecas,53,Villa Gonz_lez Ortega,1,Villa Gonz_lez Ortega,0,1,0,1,320530001,32053,2013
+32,Zacatecas,53,Villa Gonz_lez Ortega,15,Estancia de _nimas,0,1,0,1,320530015,32053,2013
+32,Zacatecas,54,Villa Hidalgo,1,Villa Hidalgo,0,1,0,1,320540001,32054,2013
+32,Zacatecas,54,Villa Hidalgo,3,La Ballena,0,1,0,1,320540003,32054,2013
+32,Zacatecas,54,Villa Hidalgo,13,Colonia Jos_ Mar_a Morelos,0,2,0,2,320540013,32054,2013
+32,Zacatecas,54,Villa Hidalgo,24,Presa de Valenzuela (Laguna de Valenzuela),0,1,0,1,320540024,32054,2013
+32,Zacatecas,54,Villa Hidalgo,29,El Refugio,0,1,0,1,320540029,32054,2013
+32,Zacatecas,55,Villanueva,1,Villanueva,1,4,0,5,320550001,32055,2013
+32,Zacatecas,55,Villanueva,90,Tenango,0,1,0,1,320550090,32055,2013
+32,Zacatecas,55,Villanueva,125,El Nuevo Tigre,0,1,0,1,320550125,32055,2013
+32,Zacatecas,56,Zacatecas,1,Zacatecas,0,2,2,4,320560001,32056,2013
+32,Zacatecas,57,Trancoso,1,Trancoso,0,2,0,2,320570001,32057,2013
