@@ -1,0 +1,556 @@
+﻿ClaveEntidad,NombreEntidad,ClaveMunicipio,NombreMunicipio,agua,drenaje,electrificacion,infraestructuraDeportiva,infraestructuraEducativa,infraestructuraSalud,ccas,otrasInfraestructura,suma,id,year
+1,Aguascalientes,1,Aguascalientes,0,0,2,0,0,0,0,0,2,1001,2013
+2,Baja California,1,Ensenada,0,0,0,0,0,0,4,0,4,2001,2013
+2,Baja California,2,Mexicali,0,0,0,0,0,0,4,0,4,2002,2013
+3,Baja California Sur,1,Comondð,0,1,0,0,0,0,0,0,1,3001,2013
+4,Campeche,2,Campeche,0,0,0,1,0,0,0,3,4,4002,2013
+4,Campeche,4,Champotðn,0,0,0,4,0,0,0,0,4,4004,2013
+4,Campeche,5,Hecelchakðn,0,0,0,0,0,0,3,0,3,4005,2013
+4,Campeche,6,Hopelchðn,0,0,0,0,0,0,4,0,4,4006,2013
+4,Campeche,8,Tenabo,0,0,0,1,0,0,0,0,1,4008,2013
+4,Campeche,9,Escðrcega,0,0,0,0,0,0,4,0,4,4009,2013
+4,Campeche,10,Calakmul,0,0,0,0,0,0,3,0,3,4010,2013
+4,Campeche,11,Candelaria,0,0,0,1,0,0,4,1,6,4011,2013
+5,Coahuila de Zaragoza,11,General Cepeda,0,0,0,0,0,0,1,0,1,5011,2013
+5,Coahuila de Zaragoza,15,Juðrez,0,0,0,0,0,0,2,0,2,5015,2013
+5,Coahuila de Zaragoza,23,Ocampo,0,0,0,0,0,1,0,0,1,5023,2013
+5,Coahuila de Zaragoza,36,Viesca,0,0,0,0,0,1,3,0,4,5036,2013
+7,Chiapas,1,Acacoyagua,0,0,0,0,0,0,1,0,1,7001,2013
+7,Chiapas,3,Acapetahua,0,0,0,0,0,0,3,0,3,7003,2013
+7,Chiapas,4,Altamirano,0,0,0,0,0,0,10,0,10,7004,2013
+7,Chiapas,5,Amatðn,0,0,0,0,0,0,3,0,3,7005,2013
+7,Chiapas,6,Amatenango de la Frontera,0,0,0,0,0,0,1,0,1,7006,2013
+7,Chiapas,7,Amatenango del Valle,0,0,0,0,1,0,2,0,3,7007,2013
+7,Chiapas,8,Angel Albino Corzo,0,0,0,0,0,0,4,0,4,7008,2013
+7,Chiapas,10,Bejucal de Ocampo,0,0,0,0,0,0,6,0,6,7010,2013
+7,Chiapas,11,Bella Vista,0,0,0,0,0,0,6,0,6,7011,2013
+7,Chiapas,12,Berriozðbal,0,0,0,0,0,0,1,0,1,7012,2013
+7,Chiapas,13,Bochil,0,0,0,0,0,0,3,0,3,7013,2013
+7,Chiapas,16,Catazajð,0,0,0,0,0,0,1,0,1,7016,2013
+7,Chiapas,17,Cintalapa,0,0,0,0,0,0,2,0,2,7017,2013
+7,Chiapas,18,Coapilla,0,0,0,0,0,0,2,0,2,7018,2013
+7,Chiapas,20,La Concordia,0,0,0,0,0,0,1,0,1,7020,2013
+7,Chiapas,21,Copainalð,0,0,0,0,0,0,4,0,4,7021,2013
+7,Chiapas,22,Chalchihuitðn,0,0,0,0,0,0,3,0,3,7022,2013
+7,Chiapas,23,Chamula,0,0,0,0,0,0,3,0,3,7023,2013
+7,Chiapas,24,Chanal,2,0,0,0,0,0,1,0,3,7024,2013
+7,Chiapas,26,Chenalhð,0,0,0,0,0,0,1,0,1,7026,2013
+7,Chiapas,28,Chiapilla,0,0,0,0,0,0,1,0,1,7028,2013
+7,Chiapas,31,Chilðn,0,1,0,0,0,0,11,0,12,7031,2013
+7,Chiapas,32,Escuintla,0,0,0,0,0,0,3,0,3,7032,2013
+7,Chiapas,33,Francisco Leðn,0,0,0,0,0,0,3,0,3,7033,2013
+7,Chiapas,36,La Grandeza,0,0,0,0,0,0,5,0,5,7036,2013
+7,Chiapas,37,Huehuetðn,0,0,0,0,0,0,2,0,2,7037,2013
+7,Chiapas,38,Huixtðn,0,0,0,0,0,0,4,0,4,7038,2013
+7,Chiapas,39,Huitiupðn,0,0,0,0,0,0,6,0,6,7039,2013
+7,Chiapas,41,La Independencia,0,0,0,0,0,0,2,0,2,7041,2013
+7,Chiapas,42,Ixhuatðn,0,0,0,0,0,0,3,0,3,7042,2013
+7,Chiapas,43,Ixtacomitðn,0,0,0,0,0,0,1,0,1,7043,2013
+7,Chiapas,46,Jiquipilas,0,0,0,0,0,0,1,0,1,7046,2013
+7,Chiapas,47,Jitotol,0,0,0,0,0,0,2,0,2,7047,2013
+7,Chiapas,48,Juðrez,0,0,0,0,0,0,2,0,2,7048,2013
+7,Chiapas,49,Larrðinzar,0,0,0,0,0,0,3,0,3,7049,2013
+7,Chiapas,51,Mapastepec,0,0,0,0,0,0,2,0,2,7051,2013
+7,Chiapas,52,Las Margaritas,0,0,0,0,0,0,14,0,14,7052,2013
+7,Chiapas,53,Mazapa de Madero,0,0,0,0,0,0,1,0,1,7053,2013
+7,Chiapas,56,Mitontic,0,0,0,0,0,0,2,0,2,7056,2013
+7,Chiapas,57,Motozintla,0,0,0,0,0,0,1,0,1,7057,2013
+7,Chiapas,58,Nicolðs Ruðz,0,0,0,0,0,0,1,0,1,7058,2013
+7,Chiapas,59,Ocosingo,0,0,0,0,0,0,28,0,28,7059,2013
+7,Chiapas,60,Ocotepec,0,0,0,0,0,0,4,0,4,7060,2013
+7,Chiapas,61,Ocozocoautla de Espinosa,0,0,0,0,0,0,2,0,2,7061,2013
+7,Chiapas,63,Osumacinta,0,0,0,0,0,0,2,0,2,7063,2013
+7,Chiapas,64,Oxchuc,0,0,0,0,0,0,2,0,2,7064,2013
+7,Chiapas,66,Pantelhð,0,0,0,0,0,0,2,0,2,7066,2013
+7,Chiapas,67,Pantepec,0,0,0,0,0,0,5,0,5,7067,2013
+7,Chiapas,70,El Porvenir,0,0,0,0,0,0,8,0,8,7070,2013
+7,Chiapas,71,Villa Comaltitlðn,0,0,0,0,0,0,3,0,3,7071,2013
+7,Chiapas,76,Sabanilla,0,0,0,0,0,0,5,0,5,7076,2013
+7,Chiapas,77,Salto de Agua,0,0,0,0,0,0,6,0,6,7077,2013
+7,Chiapas,79,San Fernando,0,1,0,0,0,0,0,0,1,7079,2013
+7,Chiapas,80,Siltepec,0,0,0,0,0,0,14,0,14,7080,2013
+7,Chiapas,81,Simojovel,0,0,0,0,0,0,2,0,2,7081,2013
+7,Chiapas,82,Sitalð,0,0,0,0,0,0,4,0,4,7082,2013
+7,Chiapas,83,Socoltenango,0,0,0,0,0,0,4,0,4,7083,2013
+7,Chiapas,84,Solosuchiapa,0,0,0,0,0,0,2,0,2,7084,2013
+7,Chiapas,87,Suchiate,0,0,0,0,0,0,1,0,1,7087,2013
+7,Chiapas,88,Sunuapa,0,0,0,0,0,0,1,0,1,7088,2013
+7,Chiapas,91,Tapilula,0,0,0,0,0,0,3,0,3,7091,2013
+7,Chiapas,92,Tecpatðn,0,0,0,0,0,0,4,0,4,7092,2013
+7,Chiapas,93,Tenejapa,0,0,0,0,0,0,3,0,3,7093,2013
+7,Chiapas,94,Teopisca,0,0,0,0,0,0,1,0,1,7094,2013
+7,Chiapas,96,Tila,0,0,0,0,0,0,4,0,4,7096,2013
+7,Chiapas,97,Tonalð,0,0,0,0,0,0,8,0,8,7097,2013
+7,Chiapas,98,Totolapa,0,0,0,0,0,0,2,0,2,7098,2013
+7,Chiapas,99,La Trinitaria,0,0,0,0,0,0,5,0,5,7099,2013
+7,Chiapas,100,Tumbalð,0,0,0,0,0,0,6,0,6,7100,2013
+7,Chiapas,102,Tuxtla Chico,0,0,0,0,0,0,4,0,4,7102,2013
+7,Chiapas,103,Tuzantðn,0,0,0,0,0,0,2,0,2,7103,2013
+7,Chiapas,104,Tzimol,0,0,0,0,0,0,1,1,2,7104,2013
+7,Chiapas,105,Uniðn Juðrez,0,0,0,0,0,0,2,0,2,7105,2013
+7,Chiapas,106,Venustiano Carranza,0,0,0,0,0,0,4,0,4,7106,2013
+7,Chiapas,107,Villa Corzo,0,0,0,0,0,0,2,0,2,7107,2013
+7,Chiapas,108,Villaflores,0,0,0,0,0,0,2,0,2,7108,2013
+7,Chiapas,109,Yajalðn,0,0,0,0,0,0,1,0,1,7109,2013
+7,Chiapas,110,San Lucas,0,1,0,0,0,0,1,0,2,7110,2013
+7,Chiapas,111,Zinacantðn,0,0,0,0,0,0,5,4,9,7111,2013
+7,Chiapas,112,San Juan Cancuc,0,0,0,0,0,0,5,0,5,7112,2013
+7,Chiapas,113,Aldama,0,0,0,0,0,0,4,0,4,7113,2013
+7,Chiapas,114,Benemðrito de las Amðricas,0,0,0,0,0,0,2,0,2,7114,2013
+7,Chiapas,115,Maravilla Tenejapa,0,0,0,0,0,1,3,0,4,7115,2013
+7,Chiapas,116,Marquðs de Comillas,0,0,0,0,0,0,7,0,7,7116,2013
+7,Chiapas,117,Montecristo de Guerrero,0,0,0,0,0,0,4,0,4,7117,2013
+7,Chiapas,118,San Andrðs Duraznal,0,0,0,0,0,0,2,0,2,7118,2013
+7,Chiapas,119,Santiago el Pinar,0,0,0,0,0,0,2,0,2,7119,2013
+8,Chihuahua,7,Balleza,1,0,0,0,0,1,0,0,2,8007,2013
+8,Chihuahua,8,Batopilas,0,0,0,0,0,7,2,0,9,8008,2013
+8,Chihuahua,12,Carichð,0,0,0,0,0,1,0,0,1,8012,2013
+8,Chihuahua,27,Guachochi,0,0,0,0,0,0,4,0,4,8027,2013
+8,Chihuahua,29,Guadalupe y Calvo,0,0,0,0,0,0,8,0,8,8029,2013
+8,Chihuahua,41,Maguarichi,0,0,0,0,0,0,0,1,1,8041,2013
+8,Chihuahua,46,Morelos,0,0,0,0,0,1,3,0,4,8046,2013
+8,Chihuahua,49,Nonoava,0,0,0,0,0,0,0,4,4,8049,2013
+10,Durango,14,Mezquital,0,0,0,0,0,0,11,0,11,10014,2013
+10,Durango,37,Topia,0,1,0,0,0,0,0,0,1,10037,2013
+11,Guanajuato,6,Atarjea,0,0,0,0,0,0,5,0,5,11006,2013
+11,Guanajuato,13,Doctor Mora,0,0,0,0,0,0,4,0,4,11013,2013
+11,Guanajuato,19,Jerðcuaro,0,0,0,0,0,0,3,0,3,11019,2013
+11,Guanajuato,22,Ocampo,0,0,0,0,0,0,5,0,5,11022,2013
+11,Guanajuato,23,Pðnjamo,0,0,0,0,0,0,0,4,4,11023,2013
+11,Guanajuato,29,San Diego de la Uniðn,0,0,0,0,0,0,2,0,2,11029,2013
+11,Guanajuato,30,San Felipe,0,1,0,0,0,0,11,0,12,11030,2013
+11,Guanajuato,33,San Luis de la Paz,0,2,0,0,0,0,0,0,2,11033,2013
+11,Guanajuato,34,Santa Catarina,0,0,0,0,0,0,1,0,1,11034,2013
+11,Guanajuato,35,Santa Cruz de Juventino Rosas,0,2,0,0,0,0,0,0,2,11035,2013
+11,Guanajuato,37,Silao de la Victoria,0,1,0,0,0,0,0,0,1,11037,2013
+11,Guanajuato,40,Tierra Blanca,0,0,0,0,0,0,4,0,4,11040,2013
+11,Guanajuato,43,Victoria,0,0,0,0,0,0,8,0,8,11043,2013
+11,Guanajuato,45,Xichð,0,0,0,0,0,0,8,0,8,11045,2013
+12,Guerrero,9,Atlamajalcingo del Monte,0,0,0,0,0,0,2,0,2,12009,2013
+12,Guerrero,10,Atlixtac,0,0,0,0,0,0,2,0,2,12010,2013
+12,Guerrero,12,Ayutla de los Libres,0,0,0,0,0,0,3,0,3,12012,2013
+12,Guerrero,18,Copala,0,1,0,0,0,0,2,0,3,12018,2013
+12,Guerrero,20,Copanatoyac,0,0,0,0,0,0,2,0,2,12020,2013
+12,Guerrero,21,Coyuca de Benðtez,0,0,0,0,0,0,5,0,5,12021,2013
+12,Guerrero,24,Cualðc,0,0,0,0,0,0,1,0,1,12024,2013
+12,Guerrero,25,Cuautepec,0,0,0,0,0,0,3,0,3,12025,2013
+12,Guerrero,31,General Canuto A. Neri,1,0,0,0,0,0,0,0,1,12031,2013
+12,Guerrero,33,Huamuxtitlðn,0,0,0,0,0,0,1,0,1,12033,2013
+12,Guerrero,36,Igualapa,0,0,0,0,0,0,1,0,1,12036,2013
+12,Guerrero,37,Ixcateopan de Cuauhtðmoc,1,0,0,0,0,0,0,0,1,12037,2013
+12,Guerrero,41,Malinaltepec,0,0,0,0,0,0,3,0,3,12041,2013
+12,Guerrero,42,Mðrtir de Cuilapan,0,0,0,0,0,0,3,0,3,12042,2013
+12,Guerrero,43,Metlatðnoc,0,0,0,0,0,0,4,0,4,12043,2013
+12,Guerrero,46,Ometepec,0,0,0,0,0,0,1,0,1,12046,2013
+12,Guerrero,52,San Luis Acatlðn,0,0,0,0,0,0,3,0,3,12052,2013
+12,Guerrero,53,San Marcos,0,0,0,0,0,0,1,0,1,12053,2013
+12,Guerrero,56,Tecoanapa,0,0,0,0,0,0,7,0,7,12056,2013
+12,Guerrero,66,Tlapa de Comonfort,0,0,0,0,0,0,1,0,1,12066,2013
+12,Guerrero,69,Xalpatlðhuac,0,0,0,0,0,0,3,0,3,12069,2013
+12,Guerrero,71,Xochistlahuaca,0,0,0,0,0,0,3,0,3,12071,2013
+12,Guerrero,76,Acatepec,0,0,0,0,0,0,5,0,5,12076,2013
+12,Guerrero,78,Cochoapa el Grande,0,0,0,0,0,0,2,0,2,12078,2013
+13,Hidalgo,1,Acatlðn,0,0,0,0,2,1,0,0,3,13001,2013
+13,Hidalgo,2,Acaxochitlðn,0,0,0,0,2,1,0,0,3,13002,2013
+13,Hidalgo,4,Agua Blanca de Iturbide,0,0,0,0,1,1,0,0,2,13004,2013
+13,Hidalgo,6,Alfajayucan,0,0,0,0,1,0,0,0,1,13006,2013
+13,Hidalgo,7,Almoloya,0,0,0,0,1,0,0,0,1,13007,2013
+13,Hidalgo,9,El Arenal,0,0,0,0,2,1,0,0,3,13009,2013
+13,Hidalgo,11,Atlapexco,0,0,0,0,4,0,0,0,4,13011,2013
+13,Hidalgo,12,Atotonilco el Grande,0,0,0,0,2,1,0,0,3,13012,2013
+13,Hidalgo,14,Calnali,0,0,0,0,1,2,0,0,3,13014,2013
+13,Hidalgo,15,Cardonal,0,0,0,0,0,2,0,0,2,13015,2013
+13,Hidalgo,16,Cuautepec de Hinojosa,0,0,0,0,1,0,0,0,1,13016,2013
+13,Hidalgo,17,Chapantongo,0,0,0,0,1,1,0,0,2,13017,2013
+13,Hidalgo,18,Chapulhuacðn,0,0,0,0,0,2,0,0,2,13018,2013
+13,Hidalgo,19,Chilcuautla,0,0,0,0,1,0,0,0,1,13019,2013
+13,Hidalgo,20,Eloxochitlðn,0,0,0,0,1,0,0,0,1,13020,2013
+13,Hidalgo,24,Huasca de Ocampo,0,0,0,0,1,1,0,0,2,13024,2013
+13,Hidalgo,26,Huazalingo,0,0,0,0,2,0,0,0,2,13026,2013
+13,Hidalgo,27,Huehuetla,0,0,0,0,2,1,4,0,7,13027,2013
+13,Hidalgo,29,Huichapan,0,0,0,0,1,0,0,0,1,13029,2013
+13,Hidalgo,30,Ixmiquilpan,0,0,0,0,1,1,0,0,2,13030,2013
+13,Hidalgo,31,Jacala de Ledezma,0,0,0,0,2,1,0,0,3,13031,2013
+13,Hidalgo,32,Jaltocðn,0,0,0,0,2,0,1,0,3,13032,2013
+13,Hidalgo,33,Juðrez Hidalgo,0,0,0,0,2,1,0,0,3,13033,2013
+13,Hidalgo,34,Lolotla,0,0,0,0,2,0,0,0,2,13034,2013
+13,Hidalgo,36,San Agustðn Metzquititlðn,0,0,0,0,3,1,0,0,4,13036,2013
+13,Hidalgo,37,Metztitlðn,0,0,0,0,1,1,0,0,2,13037,2013
+13,Hidalgo,38,Mineral del Chico,0,0,0,0,2,0,0,0,2,13038,2013
+13,Hidalgo,40,La Misiðn,0,0,0,0,1,0,0,0,1,13040,2013
+13,Hidalgo,42,Molango de Escamilla,0,0,0,0,2,1,0,0,3,13042,2013
+13,Hidalgo,43,Nicolðs Flores,0,0,0,0,1,2,0,0,3,13043,2013
+13,Hidalgo,44,Nopala de Villagrðn,0,0,0,0,1,0,0,0,1,13044,2013
+13,Hidalgo,45,Omitlðn de Juðrez,0,0,0,0,2,0,0,0,2,13045,2013
+13,Hidalgo,46,San Felipe Orizatlðn,0,0,0,0,2,1,2,0,5,13046,2013
+13,Hidalgo,47,Pacula,0,0,0,0,1,0,0,0,1,13047,2013
+13,Hidalgo,49,Pisaflores,0,0,0,0,1,0,1,0,2,13049,2013
+13,Hidalgo,53,San Bartolo Tutotepec,0,0,0,0,2,1,2,0,5,13053,2013
+13,Hidalgo,54,San Salvador,0,0,0,0,1,0,0,0,1,13054,2013
+13,Hidalgo,57,Singuilucan,0,0,0,0,1,1,0,0,2,13057,2013
+13,Hidalgo,59,Tecozautla,0,0,0,0,1,1,0,0,2,13059,2013
+13,Hidalgo,60,Tenango de Doria,0,0,0,0,2,0,0,0,2,13060,2013
+13,Hidalgo,62,Tepehuacðn de Guerrero,0,0,0,0,1,0,0,0,1,13062,2013
+13,Hidalgo,64,Tepetitlðn,0,0,0,0,1,1,0,0,2,13064,2013
+13,Hidalgo,67,Tezontepec de Aldama,0,0,0,0,1,0,0,0,1,13067,2013
+13,Hidalgo,68,Tianguistengo,0,0,0,0,2,0,0,0,2,13068,2013
+13,Hidalgo,71,Tlahuiltepa,0,0,0,0,2,1,0,0,3,13071,2013
+13,Hidalgo,73,Tlanchinol,0,0,0,0,1,1,0,0,2,13073,2013
+13,Hidalgo,78,Xochiatipan,0,0,0,0,4,1,1,0,6,13078,2013
+13,Hidalgo,79,Xochicoatlðn,0,0,0,0,1,0,0,0,1,13079,2013
+13,Hidalgo,80,Yahualica,0,0,0,0,0,0,3,0,3,13080,2013
+13,Hidalgo,81,Zacualtipðn de ðngeles,0,0,0,0,1,1,0,0,2,13081,2013
+13,Hidalgo,84,Zimapðn,0,0,0,0,1,1,0,0,2,13084,2013
+14,Jalisco,61,Mezquitic,0,0,0,0,27,8,5,0,40,14061,2013
+14,Jalisco,98,San Pedro Tlaquepaque,0,1,0,0,0,0,0,0,1,14098,2013
+15,Mðxico,1,Acambay de Ruðz Castaðeda,0,0,0,0,0,0,7,0,7,15001,2013
+15,Mðxico,5,Almoloya de Juðrez,0,0,0,0,0,0,4,0,4,15005,2013
+15,Mðxico,11,Atenco,0,0,0,1,0,0,0,0,1,15011,2013
+15,Mðxico,41,Ixtapan del Oro,0,0,0,0,0,0,3,3,6,15041,2013
+15,Mðxico,42,Ixtlahuaca,0,0,0,0,0,0,3,0,3,15042,2013
+15,Mðxico,47,Jiquipilco,0,0,0,0,0,0,4,0,4,15047,2013
+15,Mðxico,54,Metepec,0,0,0,2,0,0,0,0,2,15054,2013
+15,Mðxico,60,Nicolðs Romero,0,1,0,1,1,0,0,1,4,15060,2013
+15,Mðxico,74,San Felipe del Progreso,0,0,0,0,0,0,5,1,6,15074,2013
+15,Mðxico,80,Sultepec,0,0,0,0,0,0,4,1,5,15080,2013
+15,Mðxico,82,Tejupilco,0,0,0,0,0,0,4,1,5,15082,2013
+15,Mðxico,85,Temascalcingo,0,0,0,0,0,0,3,0,3,15085,2013
+15,Mðxico,87,Temoaya,0,0,0,0,0,0,9,0,9,15087,2013
+15,Mðxico,114,Villa Victoria,0,0,0,0,0,0,6,0,6,15114,2013
+15,Mðxico,119,Zumpahuacðn,0,0,0,0,0,0,5,1,6,15119,2013
+15,Mðxico,123,Luvianos,1,0,0,0,0,0,6,1,8,15123,2013
+15,Mðxico,124,San Josð del Rincðn,0,0,0,0,0,0,12,1,13,15124,2013
+16,Michoacðn de Ocampo,1,Acuitzio,0,1,0,0,0,0,0,0,1,16001,2013
+16,Michoacðn de Ocampo,4,Angamacutiro,2,0,0,0,0,0,0,0,2,16004,2013
+16,Michoacðn de Ocampo,6,Apatzingðn,0,1,0,0,0,0,0,0,1,16006,2013
+16,Michoacðn de Ocampo,8,Aquila,0,1,0,0,0,0,0,0,1,16008,2013
+16,Michoacðn de Ocampo,9,Ario,0,0,0,0,0,1,0,0,1,16009,2013
+16,Michoacðn de Ocampo,15,Coalcomðn de Vðzquez Pallares,0,2,0,0,0,0,0,0,2,16015,2013
+16,Michoacðn de Ocampo,17,Contepec,1,0,0,0,0,0,0,0,1,16017,2013
+16,Michoacðn de Ocampo,18,Copðndaro,1,1,0,0,0,0,0,0,2,16018,2013
+16,Michoacðn de Ocampo,20,Cuitzeo,0,2,0,0,0,0,0,0,2,16020,2013
+16,Michoacðn de Ocampo,22,Charo,0,1,0,0,0,0,0,0,1,16022,2013
+16,Michoacðn de Ocampo,23,Chavinda,0,1,0,0,0,0,0,0,1,16023,2013
+16,Michoacðn de Ocampo,25,Chilchota,0,4,0,0,0,0,0,0,4,16025,2013
+16,Michoacðn de Ocampo,27,Chucðndiro,0,1,0,0,1,0,0,0,2,16027,2013
+16,Michoacðn de Ocampo,29,Churumuco,0,2,0,0,0,0,0,0,2,16029,2013
+16,Michoacðn de Ocampo,30,Ecuandureo,0,0,0,0,2,0,0,0,2,16030,2013
+16,Michoacðn de Ocampo,34,Hidalgo,0,7,0,0,0,0,0,0,7,16034,2013
+16,Michoacðn de Ocampo,38,Huetamo,0,1,0,0,0,0,1,0,2,16038,2013
+16,Michoacðn de Ocampo,40,Indaparapeo,0,0,0,0,0,1,0,0,1,16040,2013
+16,Michoacðn de Ocampo,42,Ixtlðn,0,2,0,0,0,0,0,0,2,16042,2013
+16,Michoacðn de Ocampo,47,Jungapeo,0,3,0,0,1,0,0,0,4,16047,2013
+16,Michoacðn de Ocampo,48,Lagunillas,0,1,0,0,0,0,0,0,1,16048,2013
+16,Michoacðn de Ocampo,50,Maravatðo,0,2,0,0,0,0,4,0,6,16050,2013
+16,Michoacðn de Ocampo,53,Morelia,0,4,0,0,0,0,0,0,4,16053,2013
+16,Michoacðn de Ocampo,54,Morelos,0,0,0,0,0,1,0,0,1,16054,2013
+16,Michoacðn de Ocampo,56,Nahuatzen,1,0,0,0,0,0,0,0,1,16056,2013
+16,Michoacðn de Ocampo,57,Nocupðtaro,0,2,0,0,0,2,2,0,6,16057,2013
+16,Michoacðn de Ocampo,58,Nuevo Parangaricutiro,0,1,0,0,0,0,0,0,1,16058,2013
+16,Michoacðn de Ocampo,62,Pajacuarðn,1,6,0,0,0,0,0,0,7,16062,2013
+16,Michoacðn de Ocampo,64,Parðcuaro,0,0,0,0,2,0,0,0,2,16064,2013
+16,Michoacðn de Ocampo,66,Pðtzcuaro,0,0,0,0,1,0,0,0,1,16066,2013
+16,Michoacðn de Ocampo,67,Penjamillo,0,1,0,0,0,0,0,0,1,16067,2013
+16,Michoacðn de Ocampo,76,Sahuayo,1,0,0,0,0,0,0,0,1,16076,2013
+16,Michoacðn de Ocampo,81,Susupuato,0,1,0,0,0,0,0,0,1,16081,2013
+16,Michoacðn de Ocampo,82,Tacðmbaro,1,1,0,0,0,0,0,0,2,16082,2013
+16,Michoacðn de Ocampo,83,Tancðtaro,0,1,0,0,0,0,0,0,1,16083,2013
+16,Michoacðn de Ocampo,84,Tangamandapio,0,1,0,0,0,0,0,0,1,16084,2013
+16,Michoacðn de Ocampo,86,Tanhuato,0,2,0,0,0,0,0,0,2,16086,2013
+16,Michoacðn de Ocampo,97,Turicato,0,1,0,0,0,0,0,0,1,16097,2013
+16,Michoacðn de Ocampo,98,Tuxpan,0,1,0,0,0,0,0,0,1,16098,2013
+16,Michoacðn de Ocampo,100,Tzintzuntzan,1,0,0,0,0,0,0,0,1,16100,2013
+16,Michoacðn de Ocampo,101,Tzitzio,0,0,0,0,3,1,0,0,4,16101,2013
+16,Michoacðn de Ocampo,102,Uruapan,0,6,0,0,0,0,0,0,6,16102,2013
+16,Michoacðn de Ocampo,107,Zacapu,0,1,0,0,0,0,0,0,1,16107,2013
+16,Michoacðn de Ocampo,108,Zamora,1,1,0,0,0,0,0,0,2,16108,2013
+16,Michoacðn de Ocampo,111,Ziracuaretiro,0,0,0,0,0,0,0,1,1,16111,2013
+16,Michoacðn de Ocampo,112,Zitðcuaro,0,1,0,0,0,0,0,0,1,16112,2013
+17,Morelos,3,Axochiapan,0,0,0,0,0,0,0,1,1,17003,2013
+17,Morelos,7,Cuernavaca,0,0,0,0,0,0,0,3,3,17007,2013
+17,Morelos,16,Ocuituco,0,0,0,0,0,0,0,4,4,17016,2013
+17,Morelos,22,Tetela del Volcðn,0,0,0,0,0,0,0,9,9,17022,2013
+17,Morelos,23,Tlalnepantla,0,0,0,0,0,0,0,1,1,17023,2013
+17,Morelos,26,Tlayacapan,0,0,0,0,0,0,0,1,1,17026,2013
+17,Morelos,27,Totolapan,0,0,0,0,0,0,0,1,1,17027,2013
+17,Morelos,32,Zacualpan de Amilpas,0,0,0,0,0,0,0,3,3,17032,2013
+18,Nayarit,5,Huajicori,0,0,0,0,0,0,3,0,3,18005,2013
+18,Nayarit,9,Del Nayar,0,0,0,0,0,2,3,3,8,18009,2013
+18,Nayarit,19,La Yesca,1,0,0,0,0,0,3,0,4,18019,2013
+19,Nuevo Leðn,17,Galeana,0,0,0,0,0,1,0,0,1,19017,2013
+19,Nuevo Leðn,30,Iturbide,0,0,0,0,0,2,0,0,2,19030,2013
+19,Nuevo Leðn,36,Mier y Noriega,0,0,0,0,0,1,0,0,1,19036,2013
+20,Oaxaca,7,Asunciðn Ocotlðn,0,0,0,0,0,0,1,0,1,20007,2013
+20,Oaxaca,15,Coatecas Altas,0,0,0,0,0,0,1,0,1,20015,2013
+20,Oaxaca,16,Coicoyðn de las Flores,0,0,0,0,0,0,0,1,1,20016,2013
+20,Oaxaca,24,Cuyamecalco Villa de Zaragoza,0,0,0,0,0,0,1,0,1,20024,2013
+20,Oaxaca,27,Chiquihuitlðn de Benito Juðrez,0,0,0,0,0,0,1,0,1,20027,2013
+20,Oaxaca,29,Eloxochitlðn de Flores Magðn,0,0,0,0,0,0,1,0,1,20029,2013
+20,Oaxaca,37,Mesones Hidalgo,0,0,0,0,0,0,1,0,1,20037,2013
+20,Oaxaca,40,Huautepec,0,0,0,0,0,0,1,0,1,20040,2013
+20,Oaxaca,48,Magdalena Mixtepec,0,0,0,0,0,0,1,0,1,20048,2013
+20,Oaxaca,49,Magdalena Ocotlðn,0,0,0,0,0,0,1,0,1,20049,2013
+20,Oaxaca,85,San Agustðn Loxicha,0,0,0,0,0,0,2,0,2,20085,2013
+20,Oaxaca,95,San Andrðs Paxtlðn,0,0,0,0,0,0,1,0,1,20095,2013
+20,Oaxaca,98,San Andrðs Teotilðlpam,0,0,0,0,0,0,1,0,1,20098,2013
+20,Oaxaca,104,San Antonino el Alto,0,0,0,0,0,0,1,0,1,20104,2013
+20,Oaxaca,106,San Antonio Acutla,0,0,0,0,0,0,1,0,1,20106,2013
+20,Oaxaca,110,San Antonio Sinicahua,0,0,0,0,0,0,1,0,1,20110,2013
+20,Oaxaca,111,San Antonio Tepetlapa,0,0,0,0,0,0,1,0,1,20111,2013
+20,Oaxaca,116,San Bartolomð Ayautla,0,0,0,0,0,0,2,0,2,20116,2013
+20,Oaxaca,125,San Carlos Yautepec,0,0,0,0,0,0,1,0,1,20125,2013
+20,Oaxaca,127,San Cristðbal Amoltepec,0,0,0,0,0,0,1,0,1,20127,2013
+20,Oaxaca,133,San Esteban Atatlahuca,0,0,0,0,0,0,1,0,1,20133,2013
+20,Oaxaca,134,San Felipe Jalapa de Dðaz,0,0,0,0,0,0,1,0,1,20134,2013
+20,Oaxaca,139,San Francisco Chapulapa,0,0,0,0,0,0,2,0,2,20139,2013
+20,Oaxaca,146,San Francisco Logueche,0,0,0,0,0,0,1,0,1,20146,2013
+20,Oaxaca,148,San Francisco Ozolotepec,0,0,0,0,0,0,1,0,1,20148,2013
+20,Oaxaca,158,San Jacinto Tlacotepec,0,0,0,0,0,0,1,0,1,20158,2013
+20,Oaxaca,159,San Jerðnimo Coatlðn,0,0,0,0,0,0,1,0,1,20159,2013
+20,Oaxaca,162,San Jerðnimo Taviche,0,0,0,0,0,0,1,0,1,20162,2013
+20,Oaxaca,163,San Jerðnimo Tecðatl,0,0,0,0,0,0,1,0,1,20163,2013
+20,Oaxaca,169,San Josð Independencia,0,0,0,0,0,0,1,0,1,20169,2013
+20,Oaxaca,170,San Josð Lachiguiri,0,0,0,0,0,0,1,0,1,20170,2013
+20,Oaxaca,182,San Juan Bautista Tlacoatzintepec,0,0,0,0,0,0,1,0,1,20182,2013
+20,Oaxaca,187,San Juan Coatzðspam,0,0,0,0,0,0,1,0,1,20187,2013
+20,Oaxaca,189,San Juan Comaltepec,0,0,0,0,0,0,1,0,1,20189,2013
+20,Oaxaca,195,San Juan Diuxi,0,0,0,0,0,0,1,0,1,20195,2013
+20,Oaxaca,202,San Juan Lachao,0,0,0,0,0,0,1,0,1,20202,2013
+20,Oaxaca,203,San Juan Lachigalla,0,0,0,0,0,0,1,0,1,20203,2013
+20,Oaxaca,211,San Juan Ozolotepec,0,0,0,0,0,0,1,0,1,20211,2013
+20,Oaxaca,212,San Juan Petlapa,0,0,0,0,0,0,1,0,1,20212,2013
+20,Oaxaca,220,San Juan Tepeuxila,0,0,0,0,0,0,1,0,1,20220,2013
+20,Oaxaca,228,San Lorenzo Cuaunecuiltitla,0,0,0,0,0,0,1,0,1,20228,2013
+20,Oaxaca,229,San Lorenzo Texmelðcan,0,0,0,0,0,0,2,0,2,20229,2013
+20,Oaxaca,231,San Lucas Camotlðn,0,0,0,0,0,0,1,0,1,20231,2013
+20,Oaxaca,232,San Lucas Ojitlðn,0,0,0,0,0,0,1,0,1,20232,2013
+20,Oaxaca,233,San Lucas Quiavinð,0,0,0,0,0,0,1,0,1,20233,2013
+20,Oaxaca,234,San Lucas Zoquiðpam,0,0,0,0,0,0,1,0,1,20234,2013
+20,Oaxaca,235,San Luis Amatlðn,0,0,0,0,0,0,1,0,1,20235,2013
+20,Oaxaca,236,San Marcial Ozolotepec,0,0,0,0,0,0,1,0,1,20236,2013
+20,Oaxaca,240,San Martðn Itunyoso,0,0,0,0,0,0,1,0,1,20240,2013
+20,Oaxaca,242,San Martðn Peras,0,0,0,0,0,0,1,0,1,20242,2013
+20,Oaxaca,248,San Mateo del Mar,0,0,0,0,0,0,1,0,1,20248,2013
+20,Oaxaca,254,San Mateo Rðo Hondo,0,0,0,0,0,0,1,0,1,20254,2013
+20,Oaxaca,257,San Melchor Betaza,0,0,0,0,0,0,1,0,1,20257,2013
+20,Oaxaca,263,San Miguel Coatlðn,0,0,0,0,0,0,1,0,1,20263,2013
+20,Oaxaca,264,San Miguel Chicahua,0,0,0,0,0,0,1,0,1,20264,2013
+20,Oaxaca,271,San Miguel Mixtepec,0,0,0,0,0,0,1,0,1,20271,2013
+20,Oaxaca,275,San Miguel Quetzaltepec,0,0,0,0,0,0,1,0,1,20275,2013
+20,Oaxaca,278,San Miguel Soyaltepec,0,0,0,0,0,0,1,0,1,20278,2013
+20,Oaxaca,282,San Miguel Tenango,0,0,0,0,0,0,1,0,1,20282,2013
+20,Oaxaca,284,San Miguel Tilquiðpam,0,0,0,0,0,0,1,0,1,20284,2013
+20,Oaxaca,292,San Pablo Cuatro Venados,0,0,0,0,0,0,1,0,1,20292,2013
+20,Oaxaca,297,San Pablo Tijaltepec,0,0,0,0,0,0,1,0,1,20297,2013
+20,Oaxaca,304,San Pedro Coxcaltepec Cðntaros,0,0,0,0,0,0,1,0,1,20304,2013
+20,Oaxaca,306,San Pedro el Alto,0,0,0,0,0,0,1,0,1,20306,2013
+20,Oaxaca,309,San Pedro Ixcatlðn,0,0,0,0,0,0,1,0,1,20309,2013
+20,Oaxaca,325,San Pedro Quiatoni,0,0,0,0,0,0,3,0,3,20325,2013
+20,Oaxaca,326,San Pedro Sochiðpam,0,0,0,0,0,0,1,0,1,20326,2013
+20,Oaxaca,328,San Pedro Taviche,0,0,0,0,0,0,1,0,1,20328,2013
+20,Oaxaca,329,San Pedro Teozacoalco,0,0,0,0,0,0,1,0,1,20329,2013
+20,Oaxaca,330,San Pedro Teutila,0,0,0,0,0,0,1,0,1,20330,2013
+20,Oaxaca,336,San Pedro Yðlox,0,0,0,0,0,0,1,0,1,20336,2013
+20,Oaxaca,337,San Pedro y San Pablo Ayutla,0,0,0,0,0,0,1,0,1,20337,2013
+20,Oaxaca,352,San Simðn Zahuatlðn,0,0,0,0,0,0,1,0,1,20352,2013
+20,Oaxaca,354,Santa Ana Ateixtlahuaca,0,0,0,0,0,0,1,0,1,20354,2013
+20,Oaxaca,355,Santa Ana Cuauhtðmoc,0,0,0,0,0,0,1,0,1,20355,2013
+20,Oaxaca,357,Santa Ana Tavela,0,0,0,0,0,0,1,0,1,20357,2013
+20,Oaxaca,361,Santa Catalina Quierð,0,0,0,0,0,0,1,0,1,20361,2013
+20,Oaxaca,366,Santa Catarina Loxicha,0,0,0,0,0,0,1,0,1,20366,2013
+20,Oaxaca,367,Santa Catarina Mechoacðn,0,0,0,0,0,0,1,0,1,20367,2013
+20,Oaxaca,374,Santa Cruz Acatepec,0,0,0,0,0,0,1,0,1,20374,2013
+20,Oaxaca,379,Santa Cruz Nundaco,0,0,0,0,0,0,1,0,1,20379,2013
+20,Oaxaca,384,Santa Cruz Xitla,0,0,0,0,0,0,1,0,1,20384,2013
+20,Oaxaca,386,Santa Cruz Zenzontepec,0,0,0,0,0,0,1,0,1,20386,2013
+20,Oaxaca,388,Santa Inðs del Monte,0,0,0,0,0,0,1,0,1,20388,2013
+20,Oaxaca,391,Santa Lucða Miahuatlðn,0,0,0,0,0,0,1,0,1,20391,2013
+20,Oaxaca,392,Santa Lucða Monteverde,0,0,0,0,0,0,1,0,1,20392,2013
+20,Oaxaca,395,Santa Marða Apazco,0,0,0,0,0,0,1,0,1,20395,2013
+20,Oaxaca,396,Santa Marða la Asunciðn,0,0,0,0,0,0,1,0,1,20396,2013
+20,Oaxaca,406,Santa Marða Chilchotla,0,0,0,0,0,0,3,0,3,20406,2013
+20,Oaxaca,424,Santa Marða Ozolotepec,0,0,0,0,0,0,2,0,2,20424,2013
+20,Oaxaca,428,Santa Marða Quiegolani,0,0,0,0,0,0,1,0,1,20428,2013
+20,Oaxaca,434,Santa Marða Teopoxco,0,0,0,0,0,0,2,0,2,20434,2013
+20,Oaxaca,435,Santa Marða Tepantlali,0,0,0,0,0,0,1,0,1,20435,2013
+20,Oaxaca,440,Santa Marða Totolapilla,0,0,0,0,0,0,1,0,1,20440,2013
+20,Oaxaca,446,Santa Marða Yucuhiti,0,0,0,0,0,0,1,0,1,20446,2013
+20,Oaxaca,448,Santa Marða Zaniza,0,0,0,0,0,0,1,0,1,20448,2013
+20,Oaxaca,454,Santiago Atitlðn,0,0,0,0,0,0,1,0,1,20454,2013
+20,Oaxaca,460,Santiago Choðpam,0,0,0,0,0,0,1,0,1,20460,2013
+20,Oaxaca,465,Santiago Ixcuintepec,0,0,0,0,0,0,1,0,1,20465,2013
+20,Oaxaca,466,Santiago Ixtayutla,0,0,0,0,0,0,1,0,1,20466,2013
+20,Oaxaca,468,Santiago Jocotepec,0,0,0,0,0,0,2,0,2,20468,2013
+20,Oaxaca,469,Santiago Juxtlahuaca,0,0,0,0,0,0,1,0,1,20469,2013
+20,Oaxaca,484,Santiago Tamazola,0,0,0,0,0,0,1,0,1,20484,2013
+20,Oaxaca,490,Santiago Texcalcingo,0,0,0,0,0,0,1,0,1,20490,2013
+20,Oaxaca,491,Santiago Textitlðn,0,0,0,0,0,0,1,0,1,20491,2013
+20,Oaxaca,494,Santiago Tlazoyaltepec,0,0,0,0,0,0,1,0,1,20494,2013
+20,Oaxaca,497,Santiago Yaitepec,0,0,0,0,0,0,1,0,1,20497,2013
+20,Oaxaca,502,Santiago Zacatepec,0,0,0,0,0,0,1,0,1,20502,2013
+20,Oaxaca,509,Santo Domingo de Morelos,0,0,0,0,0,0,1,0,1,20509,2013
+20,Oaxaca,512,Santo Domingo Ozolotepec,0,0,0,0,0,0,1,0,1,20512,2013
+20,Oaxaca,514,Santo Domingo Roayaga,0,0,0,0,0,0,1,0,1,20514,2013
+20,Oaxaca,517,Santo Domingo Tepuxtepec,0,0,0,0,0,0,1,0,1,20517,2013
+20,Oaxaca,521,Santo Domingo Tonaltepec,0,0,0,0,0,0,1,0,1,20521,2013
+20,Oaxaca,527,Santos Reyes Pðpalo,0,0,0,0,0,0,2,0,2,20527,2013
+20,Oaxaca,529,Santos Reyes Yucunð,0,0,0,0,0,0,1,0,1,20529,2013
+20,Oaxaca,534,San Vicente Coatlðn,0,0,0,0,0,0,1,0,1,20534,2013
+20,Oaxaca,543,Tataltepec de Valdðs,0,0,0,0,0,0,2,0,2,20543,2013
+21,Puebla,7,Ahuatlðn,0,1,0,0,0,0,0,0,1,21007,2013
+21,Puebla,10,Ajalpan,0,0,0,0,0,0,0,406,406,21010,2013
+21,Puebla,17,Atempan,0,1,0,0,0,0,0,223,224,21017,2013
+21,Puebla,19,Atlixco,0,3,0,0,0,0,0,1056,1059,21019,2013
+21,Puebla,20,Atoyatempan,0,1,0,0,0,0,0,0,1,21020,2013
+21,Puebla,28,Camocuautla,0,2,0,0,0,0,0,90,92,21028,2013
+21,Puebla,47,Chiautla,0,1,0,0,0,0,0,0,1,21047,2013
+21,Puebla,61,Eloxochitlðn,0,0,0,0,0,0,0,556,556,21061,2013
+21,Puebla,71,Huauchinango,0,0,0,0,0,0,0,427,427,21071,2013
+21,Puebla,73,Huehuetlðn el Chico,0,2,0,0,0,0,0,0,2,21073,2013
+21,Puebla,75,Hueyapan,0,2,0,0,0,0,0,0,2,21075,2013
+21,Puebla,78,Huitzilan de Serdðn,0,2,0,0,0,0,0,344,346,21078,2013
+21,Puebla,114,Puebla,0,0,0,0,0,0,0,1444,1444,21114,2013
+21,Puebla,119,San Andrðs Cholula,0,0,0,0,0,0,0,780,780,21119,2013
+21,Puebla,120,San Antonio Caðada,0,1,0,0,0,0,0,246,247,21120,2013
+21,Puebla,142,San Salvador el Seco,0,2,0,0,0,0,0,0,2,21142,2013
+21,Puebla,148,Santa Isabel Cholula,0,1,0,0,0,0,0,0,1,21148,2013
+21,Puebla,156,Tehuacðn,0,0,0,0,0,0,0,438,438,21156,2013
+21,Puebla,157,Tehuitzingo,0,2,0,0,0,0,0,0,2,21157,2013
+21,Puebla,167,Tepetzintla,0,2,0,0,0,0,0,0,2,21167,2013
+21,Puebla,170,Tepeyahualco,0,1,0,0,0,0,0,0,1,21170,2013
+21,Puebla,193,Tzicatlacoyan,0,1,0,0,0,0,0,0,1,21193,2013
+21,Puebla,195,Vicente Guerrero,0,1,0,0,0,0,0,252,253,21195,2013
+21,Puebla,197,Xicotepec,0,0,0,0,0,0,0,533,533,21197,2013
+21,Puebla,203,Xochitlðn Todos Santos,0,1,0,0,0,0,0,0,1,21203,2013
+21,Puebla,213,Zihuateutla,0,1,0,0,0,0,0,0,1,21213,2013
+21,Puebla,217,Zoquitlðn,0,0,0,0,0,0,0,705,705,21217,2013
+22,Querðtaro,2,Pinal de Amoles,1,0,0,0,0,0,0,0,1,22002,2013
+22,Querðtaro,3,Arroyo Seco,3,1,0,0,0,0,0,0,4,22003,2013
+22,Querðtaro,4,Cadereyta de Montes,0,2,0,0,0,0,0,0,2,22004,2013
+22,Querðtaro,5,Colðn,0,2,0,0,0,0,0,0,2,22005,2013
+22,Querðtaro,7,Ezequiel Montes,0,1,0,0,0,0,0,0,1,22007,2013
+22,Querðtaro,8,Huimilpan,0,2,0,0,0,0,0,0,2,22008,2013
+22,Querðtaro,10,Landa de Matamoros,0,7,0,0,0,0,0,0,7,22010,2013
+22,Querðtaro,13,Peðamiller,2,2,0,0,0,0,0,0,4,22013,2013
+22,Querðtaro,14,Querðtaro,0,8,0,0,5,0,0,0,13,22014,2013
+22,Querðtaro,15,San Joaquðn,0,7,0,0,0,0,0,1,8,22015,2013
+22,Querðtaro,16,San Juan del Rðo,0,2,0,0,0,0,0,0,2,22016,2013
+22,Querðtaro,18,Tolimðn,0,3,0,0,0,0,0,0,3,22018,2013
+23,Quintana Roo,2,Felipe Carrillo Puerto,0,0,0,0,12,0,0,0,12,23002,2013
+23,Quintana Roo,4,Othðn P. Blanco,0,0,0,0,3,3,1,0,7,23004,2013
+23,Quintana Roo,5,Benito Juðrez,0,0,0,0,1,0,0,0,1,23005,2013
+23,Quintana Roo,6,Josð Marða Morelos,0,0,0,0,12,0,2,0,14,23006,2013
+23,Quintana Roo,7,Lðzaro Cðrdenas,0,0,0,0,0,0,2,0,2,23007,2013
+23,Quintana Roo,10,Bacalar,0,0,0,0,11,0,0,0,11,23010,2013
+24,San Luis Potosð,3,Aquismðn,0,0,0,0,0,0,3,0,3,24003,2013
+24,San Luis Potosð,12,Tancanhuitz,0,1,0,0,0,0,0,0,1,24012,2013
+24,San Luis Potosð,14,Coxcatlðn,2,0,0,0,0,0,1,0,3,24014,2013
+24,San Luis Potosð,17,Guadalcðzar,1,0,0,0,0,0,0,0,1,24017,2013
+24,San Luis Potosð,22,Moctezuma,0,0,0,0,0,0,1,0,1,24022,2013
+24,San Luis Potosð,26,San Antonio,2,0,0,0,0,0,0,0,2,24026,2013
+24,San Luis Potosð,28,San Luis Potosð,0,2,0,0,0,0,0,0,2,24028,2013
+24,San Luis Potosð,31,Santa Catarina,0,0,0,0,0,0,7,0,7,24031,2013
+24,San Luis Potosð,32,Santa Marða del Rðo,0,1,0,0,0,0,1,0,2,24032,2013
+24,San Luis Potosð,33,Santo Domingo,0,1,0,0,0,0,0,0,1,24033,2013
+24,San Luis Potosð,34,San Vicente Tancuayalab,0,1,0,0,0,0,0,0,1,24034,2013
+24,San Luis Potosð,36,Tamasopo,0,1,0,0,0,0,1,0,2,24036,2013
+24,San Luis Potosð,37,Tamazunchale,0,0,0,0,0,0,2,0,2,24037,2013
+24,San Luis Potosð,38,Tampacðn,0,1,0,0,0,0,0,0,1,24038,2013
+24,San Luis Potosð,39,Tampamolðn Corona,0,1,0,0,0,0,0,0,1,24039,2013
+24,San Luis Potosð,41,Tanlajðs,4,0,0,0,0,0,2,0,6,24041,2013
+24,San Luis Potosð,42,Tanquiðn de Escobedo,0,2,0,0,0,0,0,0,2,24042,2013
+24,San Luis Potosð,46,Villa de Arriaga,0,1,0,0,0,0,1,0,2,24046,2013
+24,San Luis Potosð,50,Villa de Reyes,0,0,0,0,0,0,1,0,1,24050,2013
+24,San Luis Potosð,53,Axtla de Terrazas,0,1,0,0,0,0,0,0,1,24053,2013
+24,San Luis Potosð,54,Xilitla,0,2,0,0,0,0,5,0,7,24054,2013
+25,Sinaloa,1,Ahome,0,2,0,0,5,0,0,0,7,25001,2013
+25,Sinaloa,3,Badiraguato,0,0,5,0,1,1,0,3,10,25003,2013
+25,Sinaloa,4,Concordia,0,0,0,0,2,0,0,0,2,25004,2013
+25,Sinaloa,6,Culiacðn,0,0,7,0,0,0,3,1,11,25006,2013
+25,Sinaloa,7,Choix,0,0,3,0,0,0,8,0,11,25007,2013
+25,Sinaloa,8,Elota,0,1,0,0,0,0,0,0,1,25008,2013
+25,Sinaloa,11,Guasave,0,0,0,0,6,0,0,0,6,25011,2013
+25,Sinaloa,14,Rosario,0,0,0,0,0,0,0,1,1,25014,2013
+25,Sinaloa,17,Sinaloa,0,0,0,0,2,4,0,0,6,25017,2013
+26,Sonora,26,Etchojoa,0,0,0,0,0,0,4,0,4,26026,2013
+27,Tabasco,3,Centla,0,0,0,0,1,0,0,0,1,27003,2013
+27,Tabasco,5,Comalcalco,0,0,0,0,1,2,0,0,3,27005,2013
+27,Tabasco,6,Cunduacðn,0,1,0,0,0,0,0,0,1,27006,2013
+27,Tabasco,8,Huimanguillo,0,0,0,0,2,0,0,0,2,27008,2013
+27,Tabasco,15,Tacotalpa,0,0,0,0,1,0,0,0,1,27015,2013
+27,Tabasco,16,Teapa,0,0,0,0,2,0,0,0,2,27016,2013
+28,Tamaulipas,3,Altamira,0,8,0,0,5,1,0,0,14,28003,2013
+28,Tamaulipas,6,Bustamante,0,0,0,0,0,0,1,0,1,28006,2013
+28,Tamaulipas,8,Casas,0,0,0,0,0,0,1,0,1,28008,2013
+28,Tamaulipas,12,Gonzðlez,0,0,0,0,0,0,1,0,1,28012,2013
+28,Tamaulipas,16,Hidalgo,0,0,0,0,0,0,1,0,1,28016,2013
+28,Tamaulipas,17,Jaumave,0,0,0,0,4,0,0,0,4,28017,2013
+28,Tamaulipas,19,Llera,0,0,0,0,3,1,1,0,5,28019,2013
+28,Tamaulipas,21,El Mante,0,0,0,0,0,0,1,0,1,28021,2013
+28,Tamaulipas,22,Matamoros,0,20,0,0,9,1,0,1,31,28022,2013
+28,Tamaulipas,26,Miquihuana,0,0,0,0,2,0,1,0,3,28026,2013
+28,Tamaulipas,29,Ocampo,0,0,0,0,0,0,1,0,1,28029,2013
+28,Tamaulipas,31,Palmillas,0,0,0,0,0,0,1,0,1,28031,2013
+28,Tamaulipas,32,Reynosa,3,10,0,0,1,1,0,0,15,28032,2013
+28,Tamaulipas,33,Rðo Bravo,0,1,0,0,0,0,0,0,1,28033,2013
+28,Tamaulipas,34,San Carlos,0,0,0,0,0,0,1,0,1,28034,2013
+28,Tamaulipas,39,Tula,0,0,0,0,3,0,0,0,3,28039,2013
+28,Tamaulipas,40,Valle Hermoso,0,1,0,0,0,0,0,0,1,28040,2013
+29,Tlaxcala,4,Atltzayanca,1,0,0,0,0,0,0,0,1,29004,2013
+29,Tlaxcala,7,El Carmen Tequexquitla,1,1,0,0,10,1,1,0,14,29007,2013
+29,Tlaxcala,37,Ziltlaltðpec de Trinidad Sðnchez Santos,0,0,0,0,11,0,1,0,12,29037,2013
+30,Veracruz de Ignacio de la Llave,10,Altotonga,0,0,0,0,0,1,2,0,3,30010,2013
+30,Veracruz de Ignacio de la Llave,18,Aquila,0,0,0,0,0,0,1,0,1,30018,2013
+30,Veracruz de Ignacio de la Llave,23,Atzalan,0,0,0,0,0,0,7,0,7,30023,2013
+30,Veracruz de Ignacio de la Llave,29,Calcahualco,0,0,0,0,0,1,1,0,2,30029,2013
+30,Veracruz de Ignacio de la Llave,47,Coscomatepec,0,0,0,0,0,0,1,0,1,30047,2013
+30,Veracruz de Ignacio de la Llave,58,Chicontepec,0,0,0,0,0,0,1,0,1,30058,2013
+30,Veracruz de Ignacio de la Llave,61,Las Choapas,0,0,0,0,0,0,3,0,3,30061,2013
+30,Veracruz de Ignacio de la Llave,67,Filomeno Mata,0,1,0,0,0,1,3,0,5,30067,2013
+30,Veracruz de Ignacio de la Llave,76,Ilamatlðn,0,0,0,0,0,0,7,0,7,30076,2013
+30,Veracruz de Ignacio de la Llave,83,Ixhuatlðn de Madero,0,0,0,0,0,0,2,0,2,30083,2013
+30,Veracruz de Ignacio de la Llave,86,Jalacingo,0,0,0,0,0,0,4,0,4,30086,2013
+30,Veracruz de Ignacio de la Llave,103,Mecatlðn,0,1,0,0,0,0,3,0,4,30103,2013
+30,Veracruz de Ignacio de la Llave,104,Mecayapan,0,0,0,0,0,1,3,0,4,30104,2013
+30,Veracruz de Ignacio de la Llave,110,Mixtla de Altamirano,0,0,0,0,0,1,3,0,4,30110,2013
+30,Veracruz de Ignacio de la Llave,124,Papantla,0,0,0,0,0,0,4,0,4,30124,2013
+30,Veracruz de Ignacio de la Llave,127,La Perla,0,1,0,0,0,1,4,0,6,30127,2013
+30,Veracruz de Ignacio de la Llave,130,Playa Vicente,0,0,0,0,0,0,3,0,3,30130,2013
+30,Veracruz de Ignacio de la Llave,147,Soledad Atzompa,0,0,0,0,0,0,4,0,4,30147,2013
+30,Veracruz de Ignacio de la Llave,149,Soteapan,0,0,0,0,0,0,4,0,4,30149,2013
+30,Veracruz de Ignacio de la Llave,155,Tantoyuca,0,0,0,0,0,0,4,0,4,30155,2013
+30,Veracruz de Ignacio de la Llave,159,Tehuipango,0,0,0,0,0,0,5,0,5,30159,2013
+30,Veracruz de Ignacio de la Llave,160,ðlamo Temapache,0,0,0,0,0,0,2,0,2,30160,2013
+30,Veracruz de Ignacio de la Llave,173,Tezonapa,0,0,0,0,0,1,3,0,4,30173,2013
+30,Veracruz de Ignacio de la Llave,175,Tihuatlðn,0,0,0,0,0,0,2,0,2,30175,2013
+30,Veracruz de Ignacio de la Llave,201,Zongolica,0,0,0,0,0,0,3,0,3,30201,2013
+30,Veracruz de Ignacio de la Llave,202,Zontecomatlðn de Lðpez y Fuentes,0,0,0,0,0,0,5,0,5,30202,2013
+31,Yucatðn,3,Akil,0,0,0,0,0,0,0,12,12,31003,2013
+31,Yucatðn,10,Cantamayec,0,0,0,0,1,0,0,0,1,31010,2013
+31,Yucatðn,11,Celestðn,0,0,0,0,0,0,0,1,1,31011,2013
+31,Yucatðn,16,Chacsinkðn,0,0,0,0,0,0,0,1,1,31016,2013
+31,Yucatðn,17,Chankom,0,0,0,0,1,0,0,0,1,31017,2013
+31,Yucatðn,19,Chemax,0,0,0,0,3,0,0,0,3,31019,2013
+31,Yucatðn,21,Chichimilð,0,0,0,0,0,0,0,1,1,31021,2013
+31,Yucatðn,25,Dzðn,0,0,0,0,0,0,0,6,6,31025,2013
+31,Yucatðn,36,Homðn,0,0,0,0,0,0,0,1,1,31036,2013
+31,Yucatðn,40,Izamal,0,0,0,0,0,0,0,1,1,31040,2013
+31,Yucatðn,42,Kantunil,0,0,0,0,0,0,0,1,1,31042,2013
+31,Yucatðn,47,Manð,0,0,0,0,0,0,0,1,1,31047,2013
+31,Yucatðn,50,Mðrida,0,0,0,0,5,0,0,0,5,31050,2013
+31,Yucatðn,56,Oxkutzcab,0,0,0,0,0,0,0,4,4,31056,2013
+31,Yucatðn,58,Peto,0,0,0,0,0,0,0,10,10,31058,2013
+31,Yucatðn,62,Sacalum,0,0,0,0,0,0,0,6,6,31062,2013
+31,Yucatðn,69,Sotuta,0,0,0,0,0,0,0,1,1,31069,2013
+31,Yucatðn,73,Tahdzið,0,0,0,0,3,0,1,1,5,31073,2013
+31,Yucatðn,75,Teabo,0,0,0,0,0,0,0,1,1,31075,2013
+31,Yucatðn,79,Tekax,0,0,0,0,0,0,0,12,12,31079,2013
+31,Yucatðn,85,Temozðn,0,0,0,0,0,0,0,1,1,31085,2013
+31,Yucatðn,89,Ticul,0,1,0,0,0,0,0,5,6,31089,2013
+31,Yucatðn,92,Tixcacalcupul,0,0,0,0,1,0,0,0,1,31092,2013
+31,Yucatðn,96,Tizimðn,0,0,0,0,0,0,0,1,1,31096,2013
+31,Yucatðn,98,Tzucacab,0,0,0,0,0,0,0,2,2,31098,2013
+31,Yucatðn,102,Valladolid,0,0,0,0,0,0,0,3,3,31102,2013
+31,Yucatðn,104,Yaxcabð,0,0,0,0,2,0,0,0,2,31104,2013
+32,Zacatecas,2,Apulco,1,0,0,0,0,0,0,0,1,32002,2013
+32,Zacatecas,38,Pinos,0,0,0,0,0,0,16,0,16,32038,2013
